@@ -1,3 +1,1836 @@
 {
-  "men": []
+  "general": [
+    {
+      "source": {
+        "id": null,
+        "name": "Deccan Herald"
+      },
+      "author": null,
+      "title": "Russia-Ukraine crisis: Russia calls for UNSC vote on 'humanitarian' resolution, NATO chief calls on China to condemn Russian action - Deccan Herald",
+      "description": "Ukrainian President Volodymyr Zelenskyy stated on Tuesday that talks with Russia would continue even as Moscow continued to shell a number of cities across Ukraine. The Kremlin, meanwhile, claimed that it had not received a formal request from Ukraine for dir…",
+      "url": "https://www.deccanherald.com/international/world-news-politics/russia-ukraine-war-news-live-updates-kyiv-maruipol-kharkiv-vladimir-putin-volodymyr-zelenskyy-attack-shelling-nuclear-war-chernobyl-zaporizhzhia-1091402.html",
+      "urlToImage": "https://www.deccanherald.com/sites/dh/files/articleimages/2022/03/15/Page_00006-1647354401.jpg",
+      "publishedAt": "2022-03-15T14:19:33Z",
+      "content": "Ukrainian President Volodymyr Zelenskyyhas submitted a draft bill in Parliament calling for the extension of a martial law for another 30 days in the country as Russia continues its military onslaugh… [+642 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investing.com"
+      },
+      "author": "Reuters",
+      "title": "Oil plunges on easing supply concerns, China COVID cases By Reuters - Investing.com",
+      "description": "Oil plunges on easing supply concerns, China COVID cases",
+      "url": "https://www.investing.com/news/commodities-news/oil-falls-on-ukraine-talks-fears-of-slower-demand-in-china-2784548",
+      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEB7H0C5_L.jpg",
+      "publishedAt": "2022-03-15T14:16:09Z",
+      "content": "By Rowena Edwards\r\nLONDON (Reuters) -Oil prices tumbled to their lowest levels in almost three weeks on Tuesday as supply disruption fears eased and as surging COVID-19 cases in China spurred demand … [+2001 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Sonia Gandhi Sacks 5 State Congress Chiefs Over Poll Defeats - NDTV",
+      "description": "Congress president Sonia Gandhi today sacked the party's chiefs in the five states where it suffered massive defeats last week, taking what it called the first step towards \"reorganisation\".",
+      "url": "https://www.ndtv.com/india-news/sonia-gandhi-asks-congress-chiefs-of-5-states-to-resign-over-poll-defeats-2824548",
+      "urlToImage": "https://c.ndtvimg.com/2022-03/l4l7fmhg_sonia-gandhi-pti_625x300_15_March_22.jpg",
+      "publishedAt": "2022-03-15T14:15:00Z",
+      "content": "Sonia Gandhi's move is a follow-up to the Congress leadership meeting on Sunday\r\nNew Delhi: Congress president Sonia Gandhi today sacked the party's chiefs in the five states where it suffered massiv… [+2985 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Free Press Journal"
+      },
+      "author": "IANS",
+      "title": "US scientists develop Nipah virus vaccine that can save lives in just 3 days - Free Press Journal",
+      "description": "The virus had three outbreaks in India in the last four years, and has so far claimed nearly 20 lives, including a 12-year-old boy from Kerala.",
+      "url": "https://www.freepressjournal.in/world/us-scientists-develop-nipah-virus-vaccine-that-can-save-lives-in-just-3-days",
+      "urlToImage": "https://images.assettype.com/freepressjournal/2022-03/56262206-4a9d-4da2-9406-ee6964c7b6ee/Vaccination_AFP_1200x768__3_.webp?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+      "publishedAt": "2022-03-15T14:03:04Z",
+      "content": "Scientists at the University of Texas have developed a vaccine that could protect against the deadly Nipah virus in just three days.\r\nNipah is a zoonotic virus (transmitted from animals to humans), w… [+3389 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TIMESOFINDIA.COM",
+      "title": "Sonia Gandhi asks Congress presidents of five states to resign after assembly poll debacle - Times of India",
+      "description": "India News: Congress president Sonia Gandhi on Tuesday asked the Pradesh Congress Committee (PCC) presidents of Uttar Pradesh, Uttarakhand, Punjab, Goa and Manipu",
+      "url": "https://timesofindia.indiatimes.com/india/sonia-gandhi-asks-congress-presidents-of-five-states-to-resign-after-assembly-poll-debacle/articleshow/90228040.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-90228185,width-1070,height-580,imgsize-1801264,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2022-03-15T13:45:00Z",
+      "content": "Explained in 12 charts: 2022 assembly election resultsNEW DELHI: The results are out and states have given a clear verdict. The BJP has scored a solid 4-0, securing victories in Uttar Pradesh, Uttara… [+154 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zoom"
+      },
+      "author": "Times Now Digital",
+      "title": "Watch Live: Indian-American astronaut Raja Chari conducting spacewalk to upgrade solar panels on I.S.S - Times Now",
+      "description": "During the 6.5hr long spacewalk, Astronauts Kayla Barron and Raja Chari, who are the part of the crew of Expedition 66, will assemble and install modification kits required for upcoming solar array upgrades.",
+      "url": "https://www.timesnownews.com/technology-science/watch-live-indian-american-astronaut-raja-chari-conducting-spacewalk-to-upgrade-solar-panels-article-90227060",
+      "urlToImage": "https://static.tnn.in/thumb/msid-90227060,imgsize-100,width-1280,height-720,resizemode-75/90227060.jpg",
+      "publishedAt": "2022-03-15T13:17:00Z",
+      "content": "Aishwarya Rai, Abhishek and Aaradhya look happy in red at Tina Ambani's son Anmol Ambani's wedding, see pics"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Asus launches new ROG Strix and TUF series laptops in India - BusinessLine",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMilAFodHRwczovL3d3dy50aGVoaW5kdWJ1c2luZXNzbGluZS5jb20vaW5mby10ZWNoL2NvbXB1dGVycy1hbmQtbGFwdG9wcy9hc3VzLWxhdW5jaGVzLW5ldy1yb2ctc3RyaXgtYW5kLXR1Zi1zZXJpZXMtbGFwdG9wcy1pbi1pbmRpYS9hcnRpY2xlNjUyMjcyMzMuZWNl0gGZAWh0dHBzOi8vd3d3LnRoZWhpbmR1YnVzaW5lc3NsaW5lLmNvbS9pbmZvLXRlY2gvY29tcHV0ZXJzLWFuZC1sYXB0b3BzL2FzdXMtbGF1bmNoZXMtbmV3LXJvZy1zdHJpeC1hbmQtdHVmLXNlcmllcy1sYXB0b3BzLWluLWluZGlhL2FydGljbGU2NTIyNzIzMy5lY2UvYW1wLw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-03-15T12:43:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "NDTV Sports Desk",
+      "title": "Pakistan vs Australia, 2nd Test, Day 4 Highlights: Babar Azam Scores Ton, Pakistan Need 314 More Run.. - NDTV Sports",
+      "description": "Pakistan vs Australia, 2nd Test, Day 4 Highlights: Pakistan's Babar Azam and Abdullah Shafique stitched together an important partnership as they took the score to 192/2 at Stumps on Day 4, still needing 314 more runs to win on the final Day.",
+      "url": "https://sports.ndtv.com/cricket/pakistan-vs-australia-2nd-test-day-4-live-score-updates-dominant-australia-aim-to-post-challenging-target-in-karachi-2823362",
+      "urlToImage": "https://c.ndtvimg.com/2022-03/7609qd8_babar-azam_625x300_15_March_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
+      "publishedAt": "2022-03-15T12:43:00Z",
+      "content": "Pakistan vs Australia, 2nd Test, Day 4 Highlights: Pakistan's Babar Azam and Abdullah Shafique stitched together an important partnership as they took the score to 192/2 at Stumps on Day 4, still nee… [+1038 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "IANS",
+      "title": "Samsung entering India laptop market this Holi, aims double-digit share - Business Standard",
+      "description": "A top executive told IANS that the company is set to launch six laptops -- starting from nearly Rs 40,000 and going up to Rs 1 lakh -- in the country",
+      "url": "https://www.business-standard.com/article/companies/samsung-entering-india-laptop-market-this-holi-aims-double-digit-share-122031500835_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-05/06/full/1620282289-6379.jpg",
+      "publishedAt": "2022-03-15T12:26:00Z",
+      "content": "Ending years of wait and unfazed by global chip shortage, Samsung on Tuesday announced to enter the highly-saturated laptop market in India -- dominated by the likes of HP, Dell and Lenovo -- this Ho… [+3181 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "NASA's Artemis 1 moon rocket making public debut on Thursday - 5 Dariya News",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vd3d3LjVkYXJpeWFuZXdzLmNvbS9uZXdzLzM2MzgwMS1OQVNBcy1BcnRlbWlzLTEtbW9vbi1yb2NrZXQtbWFraW5nLXB1YmxpYy1kZWJ1dC1vbi1UaHVyc2RhedIBYmh0dHBzOi8vd3d3LjVkYXJpeWFuZXdzLmNvbS9hbXAvMzYzODAxLU5BU0FzLUFydGVtaXMtMS1tb29uLXJvY2tldC1tYWtpbmctcHVibGljLWRlYnV0LW9uLVRodXJzZGF5?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-03-15T12:22:49Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": null,
+      "title": "Closing Bell: Market snaps 5-day winning streak, Nifty ends below 16,700; metals worst hit - Moneycontrol",
+      "description": "Among sectors, except auto all other sectoral indices ended in the red with IT, metal, power and oil & gas indices down 1-4 percent. The BSE midcap and smallcap indices lost 0.5 percent each.",
+      "url": "https://www.moneycontrol.com/news/business/markets/share-market-live-updates-stock-market-today-march-15-latest-news-bse-nse-sensex-nifty-covid-coronavirus-anupam-rasayan-india-reliance-industries-avantel-bse-dhampur-sugar-rane-brake-lining-rites-8232641.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/03/fandosensexniftyderivative-770x433.jpg",
+      "publishedAt": "2022-03-15T10:58:04Z",
+      "content": "March 15, 2022 / 03:37 PM IST\r\nMarket Close: The benchmark indices broke five day winning momentum with Nifty closing below 16700 dragged by metal, oil &amp; gas and IT stocks.\r\nAt close, the Sensex … [+572 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News9live.com"
+      },
+      "author": "News9 Staff",
+      "title": "Great Oxygenation Event: MIT Scientists fresh theory for one of Sciences great mysteries - News9 LIVE",
+      "description": "The study to appear in Nature Communications is the first to connect the co-evolution of microbes...",
+      "url": "https://www.news9live.com/science/great-oxygenation-event-mit-scientists-fresh-theory-for-one-of-sciences-great-mysteries-159223",
+      "urlToImage": "https://media.news9live.com/h-upload/2022/03/15/256631-microbe.jpg",
+      "publishedAt": "2022-03-15T10:52:32Z",
+      "content": "The Great Oxygenation Event (GOE), occurred around 2.3 billion years ago and introduced free oxygen into our atmosphere. The reason for the incident still remains one of science's great mysteries. A … [+2928 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Anisha Dutta",
+      "title": "Over 22000 Indians brought back from Ukraine, many students elected to stay back: S Jaishankar - The Indian Express",
+      "description": "Union External Affairs Minister S Jaishankar said there was a natural reluctance to leave educational institutions. “Some universities actively discouraged & showed reluctance to offer online courses…Despite our efforts, however, a large majority of students …",
+      "url": "https://indianexpress.com/article/india/indian-students-evacuation-ukraine-jaishankar-parliament-7820985/",
+      "urlToImage": "https://images.indianexpress.com/2022/03/jaishankar-1.jpg",
+      "publishedAt": "2022-03-15T10:45:17Z",
+      "content": "Over 22,000 Indian citizens have returned home safely from war-torn Ukraine despite the challenges posed, Union External Affairs Minister S Jaishankar informed Parliament on Tuesday adding that a lar… [+2809 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Big News From KCR For 700 Medical Students Who Are Back From Ukraine - NDTV",
+      "description": "The Telangana government has declared that it would fund the studies of students from state who had gone to Ukraine to study medicine.",
+      "url": "https://www.ndtv.com/telangana-news/telangana-to-fund-studies-of-ukraine-returned-medical-students-from-state-2823830",
+      "urlToImage": "https://c.ndtvimg.com/2022-02/g95jutso_indian-students-ukraine-ani_650x400_26_February_22.jpg?downsize=340:209",
+      "publishedAt": "2022-03-15T10:12:00Z",
+      "content": "Hyderabad: Students from Telangana who had gone to Ukraine to study medicine, will now have their studies funded by the state government, Chief Minister K Chandrashekar Rao said in the aftermath of a… [+1761 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zoom"
+      },
+      "author": "ET Now Digital",
+      "title": "[Exclusive] Zomato, Blinkit sign term-sheet for merger - Times Now",
+      "description": "In a major development in the world of consumer technology start-up world, recently-listed Zomato and instant delivery service Blinkit, formerly Grofers, have signed a term sheet as a precursor to the merger, ET Now has learnt.​ Zomato already owns a 10% stak…",
+      "url": "https://www.timesnownews.com/business-economy/companies/exclusive-zomato-blinkit-sign-term-sheet-for-merger-article-90222451",
+      "urlToImage": "https://static.tnn.in/thumb/msid-90222451,imgsize-100,width-1280,height-720,resizemode-75/90222451.jpg",
+      "publishedAt": "2022-03-15T10:04:00Z",
+      "content": "Aishwarya Rai, Abhishek and Aaradhya look happy in red at Tina Ambani's son Anmol Ambani's wedding, see pics"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Liz Mathew",
+      "title": "‘The Kashmir Files’ row: PM Modi tells BJP MPs to ‘stand up for those bringing out the truth’ - The Indian Express",
+      "description": "Referring to the uproar over 'Kashmir Files', the Prime Minister said while addressing the BJP’s Members of Parliament in the parliamentary party meeting that the reluctance over presenting history and historical figures in the right perspective has led to th…",
+      "url": "https://indianexpress.com/article/india/pm-narendra-modi-on-kashmir-files-row-7820791/",
+      "urlToImage": "https://images.indianexpress.com/2022/03/agni222.jpg",
+      "publishedAt": "2022-03-15T09:51:41Z",
+      "content": "Amidst a row over the recently released film TheKashmir Files, Prime Minister Narendra Modi Tuesday slammed the ecosystem that is involved in burying the truths and urged the Bharatiya Janata Partys … [+3631 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Entertainment Desk",
+      "title": "Kapil Sharma thanks Anupam Kher for clarifying The Kashmir Files invitation controversy, actor says don’t post ‘half truth’ - The Indian Express",
+      "description": "Kapil Sharma was at the centre of a controversy after The Kashmir Files director Vivek Agnihotri claimed that the team of his film was not invited on The Kapil Sharma Show.",
+      "url": "https://indianexpress.com/article/entertainment/television/kapil-sharma-thanks-anupam-kher-for-clarifying-being-invited-to-his-show-for-kashmir-files-7820184/",
+      "urlToImage": "https://images.indianexpress.com/2022/03/kapil-sharma-anupam-kher.jpg",
+      "publishedAt": "2022-03-15T09:11:43Z",
+      "content": "Comedian Kapil Sharma got trolled on social media for allegedly not inviting the team of Vivek Agnihotri’s latest film, TheKashmir Files, on The Kapil Sharma Show. Though the comedian explained that … [+2750 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "Edited by NDTV News Desk",
+      "title": "Ukraine-Russia War Live Updates: Russia-Ukraine Talks To Continue As Attacks Intensify - NDTV",
+      "description": "Ukraine War Updates: Across Ukraine, Russia's invasion has continued to take a bloody toll, destroying cities and ensuring that many lives will never be the same again.",
+      "url": "https://www.ndtv.com/world-news/ukraine-russia-war-live-updates-russia-ukraine-talks-to-continue-as-attacks-intensify-2823199",
+      "urlToImage": "https://c.ndtvimg.com/2022-03/bt2p33ag_ukraine-war_625x300_15_March_22.jpg",
+      "publishedAt": "2022-03-15T08:44:42Z",
+      "content": "Ukraine War: Russian troops have edged closer to Kyiv\r\nNew Delhi: Across Ukraine, Russia's invasion has continued to take a bloody toll, destroying cities and ensuring that many lives will never be t… [+9279 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deccan Herald"
+      },
+      "author": "Rashmi Belur",
+      "title": "Karnataka Legislative Council witnesses uproar over screening of ‘The Kashmir Files’ - Deccan Herald",
+      "description": "The Upper House of the Karnataka Legislative Council on Tuesday morning witnessed uproar over screening of the Bollywood movie ‘The Kashmir Files’ for the legislators on Tuesday evening at 6:45 pm in Mantri mall. Chairperson Basavaraj Horatti’s announcement a…",
+      "url": "https://www.deccanherald.com/state/top-karnataka-stories/karnataka-legislative-council-witnesses-uproar-over-screening-of-the-kashmir-files-1091457.html",
+      "urlToImage": "https://www.deccanherald.com/sites/dh/files/articleimages/2022/03/15/ktaka-1091457-1647334073.jpg",
+      "publishedAt": "2022-03-15T08:44:16Z",
+      "content": "The Upper House of the Karnataka Legislative Council on Tuesday morning witnessed uproar over screening of the Bollywood movie The Kashmir Files for the legislators on Tuesday evening at 6:45 pm in M… [+950 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Karnataka Hijab Ban Stays, Court Says Not Essential Religious Practice - NDTV",
+      "description": "The hijab is not an essential religious practice, the Karnataka High Court said today as it backed the ban on hijab in classrooms, challenged by a group of Muslim students in a row that spread to many districts since protests began at a school last y",
+      "url": "https://www.ndtv.com/india-news/wearing-hijab-not-an-essential-religious-practice-says-karnataka-high-court-2823373",
+      "urlToImage": "https://c.ndtvimg.com/2022-02/r9bij95g_karnataka-hijab-row-pti_625x300_19_February_22.jpg",
+      "publishedAt": "2022-03-15T08:20:00Z",
+      "content": "Five petitions had challenged the ban in court (File)\r\nBengaluru: The hijab is not an essential religious practice, the Karnataka High Court said today as it backed the ban on hijab in classrooms, ch… [+2839 chars]"
+    }
+  ],
+  "sports": [
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "NDTV Sports Desk",
+      "title": "Pakistan vs Australia, 2nd Test, Day 4 Highlights: Babar Azam Scores Ton, Pakistan Need 314 More Run.. - NDTV Sports",
+      "description": "Pakistan vs Australia, 2nd Test, Day 4 Highlights: Pakistan's Babar Azam and Abdullah Shafique stitched together an important partnership as they took the score to 192/2 at Stumps on Day 4, still needing 314 more runs to win on the final Day.",
+      "url": "https://sports.ndtv.com/cricket/pakistan-vs-australia-2nd-test-day-4-live-score-updates-dominant-australia-aim-to-post-challenging-target-in-karachi-2823362",
+      "urlToImage": "https://c.ndtvimg.com/2022-03/7609qd8_babar-azam_625x300_15_March_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
+      "publishedAt": "2022-03-15T12:43:00Z",
+      "content": "Pakistan vs Australia, 2nd Test, Day 4 Highlights: Pakistan's Babar Azam and Abdullah Shafique stitched together an important partnership as they took the score to 192/2 at Stumps on Day 4, still nee… [+1038 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "Vedant Yadav",
+      "title": "Watch: Pakistan's Azhar Ali Fails To Take DRS In Time In Bizarre Dismissal vs Australia - NDTV Sports",
+      "description": "Pakistan vs Australia: Azhar Ali had a long chat with partner Abdullah Shafique, who was at the non-striker's end and in the process ran out of time to use the DRS.",
+      "url": "https://sports.ndtv.com/cricket/pakistans-azhar-ali-fails-to-take-drs-in-time-in-bizarre-dismissal-vs-australia-watch-video-2824386",
+      "urlToImage": "https://c.ndtvimg.com/2022-03/dfqjil98_azhar-ali_625x300_15_March_22.jpg",
+      "publishedAt": "2022-03-15T12:39:47Z",
+      "content": "Pakistan are currently taking on Australia in the ongoing second Test at the National Stadium in Karachi. Pakistan have been asked to chase a mammoth target of 506 after Australia declared their seco… [+1882 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India.com"
+      },
+      "author": "Zee Media Bureau",
+      "title": "IPL 2022: A biker jumps off from 5th floor to reveal Rajasthan Royal`s new jersey - WATCH - Zee News",
+      "description": "pic.twitter.com r9rcRlvCN5 — Johns. (@CricCrazyJohns) March 15, 2022  The new jersey looks very cool,  Samson said of the jersey.  We have added a different element to it, and I m proud that as a franchise, we re able to promote our home state s renowned text…",
+      "url": "https://zeenews.india.com/cricket/ipl-2022-rajasthan-royals-new-jersey-revelation-stun-players-as-man-jumps-off-a-five-storey-building-watch-2445484.html",
+      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2022/03/15/1023045-rr-new-jersey.jpg",
+      "publishedAt": "2022-03-15T12:00:18Z",
+      "content": "FMX daredevil Robbie Maddison jumped off a five-storey building to present the new jersey to the stunned Rajasthan Royals players at the Sawai Mansingh Stadium in Jaipur.\r\nThe Australian daredevil Ro… [+4359 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India.com"
+      },
+      "author": "Bureau",
+      "title": "IPL 2022: MI pacer Jasprit Bumrah shares ROMANTIC post for wife Sanjana Ganesan on first wedding anniversar... - Zee News",
+      "description": "Team India vice-captain and Mumbai Indians pacer Jasprit Bumrah and TV presenter Sanjana Ganesan are celebrating their first wedding anniversary on Tuesday (March 15). On 15th March last year, the couple got married to each other in a private affair in Goa, i…",
+      "url": "https://zeenews.india.com/cricket/ipl-2022-mi-pacer-jasprit-bumrah-shares-romantic-post-for-wife-sanjana-ganesan-on-first-wedding-anniversary-watch-2445479.html",
+      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2022/03/15/1023038-bumrah-sanjana-wedding.jpg",
+      "publishedAt": "2022-03-15T11:25:38Z",
+      "content": "Team India vice-captain and Mumbai Indians pacer Jasprit Bumrah and TV presenter Sanjana Ganesan are celebrating their first wedding anniversary on Tuesday (March 15). On 15th March last year, the co… [+1362 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "hindustantimes.com",
+      "title": "'I scored 22 runs off his first two overs. Warne looked at me, smiled and said 'well played'': Tendulkar's ex-teammate - Hindustan Times",
+      "description": "Sachin Tendulkar's former teammate has narrated a fascinating story as to how the master batter's advice helped him tackle spin genius Shane Warne. | Cricket",
+      "url": "https://www.hindustantimes.com/cricket/i-scored-22-runs-off-his-first-two-overs-shane-warne-looked-at-me-smiled-and-said-well-played-sachin-tendulkar-s-exteammate-101647342770598.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/03/15/1600x900/warne-2004-india-getty_1647343040769_1647343050296.jpg",
+      "publishedAt": "2022-03-15T11:20:38Z",
+      "content": "The legendary Shane Warne was part of some memorable battles with some of the greatest batters of his era. His duels with Sachin Tendulkar, Brian Lara, Saeed Anwar and Aravinda de Silva fetched eyeba… [+2056 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": "ESPNcricinfo staff",
+      "title": "IPL 2022: Shane Watson joins Delhi Capitals as assistant coach - ESPNcricinfo",
+      "description": "\"Delhi Capitals have got a great squad. Now is the time to win their first title,\" the former allrounder says",
+      "url": "https://www.espncricinfo.com/story/ipl-2022-shane-watson-joins-delhi-capitals-as-assistant-coach-1305682",
+      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/289100/289173.6.jpg",
+      "publishedAt": "2022-03-15T11:06:44Z",
+      "content": "News\"Delhi Capitals have got a great squad. Now is the time to win their first title,\" the former allrounder says"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cricketaddictor.com"
+      },
+      "author": "More by Vicky Singh",
+      "title": "AMR vs DAT Dream11 Prediction, Fantasy Cricket Tips, Dream11 Team, Playing XI, Pitch Report, Injury Update- FanCode Oman D10 - Cricket Addictor",
+      "description": "AMR vs DAT Dream11 Prediction, Fantasy Cricket Tips, Dream11 Team, Playing XI, Pitch Report, Injury Update- FanCode Oman D10",
+      "url": "https://cricketaddictor.com/fantasy-cricket/amr-vs-dat-dream11-prediction-fantasy-cricket-tips-dream11-team-playing-xi-pitch-report-injury-update-fancode-oman-d10/",
+      "urlToImage": "https://cricketaddictor.com/wp-content/uploads/2022/03/Oman-D10-Dream11-Prediction-Fantasy-Cricket-Tips-Dream11-Team.jpg",
+      "publishedAt": "2022-03-15T10:19:47Z",
+      "content": "AMR vs DAT Dream11 Prediction, Fantasy Cricket Tips, Dream11 Team, Playing XI, Pitch Report, Injury Update of FanCode Oman D10 match between Amerat Royals and Darsait Titans. They will play against e… [+4279 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "hindustantimes.com",
+      "title": "'I'll talk to Ganguly. Unfair to keep fans away from India-Pakistan contests': Ramiz Raja seeks to approach BCCI chief - Hindustan Times",
+      "description": "PCB chairman Ramiz Raja has said that he will approach BCCI president Sourav Ganguly over the possibility of India and Pakistan resuming cricketing ties. | Cricket",
+      "url": "https://www.hindustantimes.com/cricket/ramiz-raja-seeks-to-approach-bcci-chief-sourav-ganguly-over-4-nation-tournament-unfair-to-keep-fans-away-from-india-pakistan-contests-101647338321002.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/03/15/1600x900/GANGULY-RAJA_1647338497072_1647338571313.jpg",
+      "publishedAt": "2022-03-15T10:05:51Z",
+      "content": "PCB chairman Ramiz Raja has said that he will try and approach BCCI president Sourav Ganguly over the possibility of India and Pakistan resuming cricketing ties. While the chances of bilateral ties t… [+2087 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": "ESPNcricinfo staff",
+      "title": "ICC rankings: Sophie Ecclestone overtakes Jess Jonassen to become No. 1 ODI bowler - ESPNcricinfo",
+      "description": "Among batters, Amy Satterthwaite and Laura Wolvaardt climb to No. 3 and No. 5 respectively",
+      "url": "https://www.espncricinfo.com/story/womens-world-cup-2022-sophie-ecclestone-overtakes-jess-jonassen-as-top-odi-bowler-in-icc-rankings-1305672",
+      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/336000/336060.6.jpg",
+      "publishedAt": "2022-03-15T10:02:37Z",
+      "content": "NewsAmong batters, Amy Satterthwaite and Laura Wolvaardt climb to No. 3 and No. 5 respectively"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": "Vishal Dikshit",
+      "title": "In-form Harmanpreet promises to be 'there for my team' at the biggest stage - ESPNcricinfo",
+      "description": "Loss in 2017 final not important, \"right now it's all about momentum and that's on our side,\" she says of taking on England",
+      "url": "https://www.espncricinfo.com/story/wwc-2022-eng-vs-ind-in-form-harmanpreet-kaur-promises-to-be-there-for-my-team-at-the-biggest-stage-1305668",
+      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/334800/334835.17.jpg",
+      "publishedAt": "2022-03-15T09:29:30Z",
+      "content": "NewsLoss in 2017 final not important, \"right now it's all about momentum and that's on our side,\" she says of taking on England"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sporting News"
+      },
+      "author": null,
+      "title": "Guardiola and Man City lose control in Premier League title race - Goal.com",
+      "description": "<p>Get the latest soccer news, rumors, video highlights, scores, schedules, standings, photos, player information and more from Sporting News Canada</p>\r\n full_html",
+      "url": "https://www.sportingnews.com/ca/soccer",
+      "urlToImage": "https://static.sportingnews.com/1.6.0.5/themes/custom/tsn/logo.jpg",
+      "publishedAt": "2022-03-15T09:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SportsCafe"
+      },
+      "author": "SportsCafe Desk",
+      "title": "Seven Indians to feature in Dhaka Premier League including Hanuma Vihari and Abhimanyu Easwaran - SportsCafe",
+      "description": "As per ESPNCricinfo, seven Indian players including Hanuma Vihari and Abhimanyu Easwaran will feature in Dhaka Premier League (DPL) for varying durations. Pakistan senior player Mohammad Hafeez will play for Mohammedan Sporting and Zimbabwe all-rounder Sikand…",
+      "url": "https://sportscafe.in/cricket/articles/2022/mar/15/seven-indians-feature-dhaka-premier-league-hanuma-vihari-abhimanyu-easwaran",
+      "urlToImage": "https://cdn-images.spcafe.in/img/es3-cfill-w800-h418/articles/Cricket_1/Hanuma_Vihari_Jamaica_century_ind_wi_bcci.jpg",
+      "publishedAt": "2022-03-15T08:52:12Z",
+      "content": "As per ESPNCrinfo, seven Indian players including Hanuma Vihari and Abhimanyu Easwaran will participate in the DPL. Vihari will join Abahani Limited after taking a short break as the Test series agai… [+342 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cricbuzz"
+      },
+      "author": null,
+      "title": "Albie Morkel joins Bangladesh as power-hitting coach Bangladesh tour of South Africa, 2022 | Cricbuzz.com - Cricbuzz - Cricbuzz",
+      "description": "Former South Africa all-rounder will link up with the side during the ODI series in South Africa",
+      "url": "https://www.cricbuzz.com/cricket-news/121487/albie-morkel-joins-bangladesh-as-power-hitting-coach",
+      "urlToImage": "http://www.cricbuzz.com/a/img/v1/600x400/i1/c228409/morkel-will-link-up-with-the-s.jpg",
+      "publishedAt": "2022-03-15T08:37:48Z",
+      "content": "BCB cricket operation chairman Jalal Yunus confirmed the development to Cricbuzz on Tuesday adding that the allrounder has already started working with the side. \"He is a very experienced campaigner … [+71 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SB Nation"
+      },
+      "author": "David Pasztor",
+      "title": "Chelsea ‘unable to print’ sanction era sponsor-free kits due to the sanctions themselves - We Ain't Got No History",
+      "description": "Catch-2022",
+      "url": "https://weaintgotnohistory.sbnation.com/2022/3/15/22978783/chelsea-unable-to-print-sanction-era-sponsor-free-kits-due-to-the-sanctions-themselves-report",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Tc9Khk2lcWe5CSrM7jHzRtoIEDg=/0x425:5184x3139/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23317110/1384241670.jpg",
+      "publishedAt": "2022-03-15T08:22:18Z",
+      "content": "Sponsors fleeing the Chelsea brand and related association due to the sanctions placed on the club and soon-to-be former owner Roman Abramovich by the UK government have not quite been able to do so,… [+1357 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insidesport.in"
+      },
+      "author": null,
+      "title": "IPL 2022: No IPL for Hardik Pandya till he clears fitness test at NCA - InsideSport",
+      "description": "IPL 2022 - Hardik Pandya Fitness Test: BCCI's strict diktat, no IPL for Hardik Pandya till he clears FITNESS TEST in NCA in Bengaluru: IPL 2022 LIVE Updates",
+      "url": "https://www.insidesport.in/ipl-2022-bccis-strict-diktat-no-ipl-for-hardik-pandya-till-he-clears-fitness-test-in-nca-in-bengaluru-follow-live-updates/",
+      "urlToImage": "https://www.insidesport.in/wp-content/uploads/2022/03/5772cd06-88cd-40a1-b6a3-d176a5f67390.jpg?w=696",
+      "publishedAt": "2022-03-15T08:10:12Z",
+      "content": "IPL 2022 – Hardik Pandya Fitness Test: According to a report by News Agency PTI, BCCI will not allow Hardik Pandya to play in IPL 2022 until or unless he clears his fitness test. The Gujarat Titans c… [+3490 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": "Annesha Ghosh",
+      "title": "Perry: Australia aware of the threat 'dangerous batters' Mandhana and Harmanpreet pose - ESPNcricinfo",
+      "description": "The allrounder also heaped praise on Jhulan Goswami, calling her a \"really, really tricky\" proposition with the new ball",
+      "url": "https://www.espncricinfo.com/story/women-s-world-cup-2022-ellyse-perry-australia-aware-of-threat-dangerous-batters-smriti-mandhana-harmanpreet-kaur-pose-1305663",
+      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/336000/336036.6.jpg",
+      "publishedAt": "2022-03-15T07:57:03Z",
+      "content": "NewsThe allrounder also heaped praise on Jhulan Goswami, calling her a \"really, really tricky\" proposition with the new ball"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "hindustantimes.com",
+      "title": "Rishabh Pant scripts new staggering Indian record in SL Test series; leaves behind Dhoni to join Gilchrist in elite list - Hindustan Times",
+      "description": "Pant scored 185 runs in the two-match Test series against Sri Lanka and inflicted 8 dismissals.  | Cricket",
+      "url": "https://www.hindustantimes.com/cricket/rishabh-pant-scripts-new-staggering-indian-record-in-sri-lanka-test-series-leaves-behind-ms-dhoni-to-join-adam-gilchrist-in-elite-list-101647328114761.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/03/15/1600x900/New_Project_-_2022-03-15T125635.091_1647329201296_1647329337476.jpg",
+      "publishedAt": "2022-03-15T07:51:12Z",
+      "content": "Young Indian wicketkeeper-batter Rishabh Pant had a sensational Test series against Sri Lanka this month scoring 185 runs at a strike rate of 120 and inflicting as many as 8 dismissals in the two-mat… [+1716 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "AFP",
+      "title": "India vs Sri Lanka: Pundits laud Rohit Sharma's captaincy after Sri Lanka whitewash - Times of India",
+      "description": "Cricket News: Cricketers and pundits on Tuesday praised Rohit Sharma's \"empathy\" as captain after he led India to a fifth successive series victory since taking ove",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/sri-lanka-in-india/pundits-laud-rohit-sharmas-captaincy-after-sri-lanka-whitewash/articleshow/90218901.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-90219046,width-1070,height-580,imgsize-38100,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2022-03-15T07:39:00Z",
+      "content": "Sachin Tendulkar, VVS Laxman congratulate Team India for winning Test series against Sri LankaIndia beat Sri Lanka by 238 runs in the second Test on Monday at the M Chinnaswamy Stadium to clinch the … [+20 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Tribune India"
+      },
+      "author": "The Tribune India",
+      "title": "International kabaddi player Sandeep Singh Nangal Ambian shot in Nakodar village - The Tribune India",
+      "description": "Sandeep Singh Nangal Ambian, a prolific 40-year-old international kabaddi player from Shahkot, was shot by four armed assailants at Mallian Khurd village in Nakodar this evening.",
+      "url": "https://www.tribuneindia.com/news/punjab/international-kabaddi-player-shot-377887",
+      "urlToImage": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/3/2022_3$largeimg_639117934.JPG",
+      "publishedAt": "2022-03-15T07:18:00Z",
+      "content": "Tribune News Service\r\nAparna Banerji\r\nJalandhar, March 14\r\nSandeep Singh Nangal Ambian, a prolific 40-year-old international kabaddi player from Shahkot, was shot by four armed assailants at Mallian … [+1876 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cricketaddictor.com"
+      },
+      "author": "https://www.facebook.com/anshuroy23",
+      "title": "PAK vs AUS: Former Australia Skipper Mark Taylor Slams PCB Chief Ramiz Raja For Producing Low-Quality Pitches - Cricket Addictor",
+      "description": "Ramiz Raja has been targeted time and again for producing low-quality pitches in the ongoing Test series between Pakistan and Australia.",
+      "url": "https://cricketaddictor.com/australia-tour-of-pakistan-2022/pak-vs-aus-former-australia-skipper-mark-taylor-slams-pcb-chief-ramiz-raja-for-producing-low-quality-pitches/",
+      "urlToImage": "https://cricketaddictor.com/wp-content/uploads/2021/09/Ramiz-Raja.jpg",
+      "publishedAt": "2022-03-15T07:02:11Z",
+      "content": "PCB Chairman Ramiz Raja has been targeted time and again for producing low-quality pitches in the ongoing Test series between Pakistan and Australia. There was a lot of hype regarding the Test series… [+2039 chars]"
+    }
+  ],
+  "entertainment": [
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": null,
+      "title": "Mukesh Ambani’s grandson Prithvi makes first public appearance as he begins nursery school. See pics - India Today",
+      "description": "Pictures from Prithvi’s first day at nursery school have gone crazy viral on social media. In one of the photos, the little one can be seen cradled in his mother Shloka Mehta's arms as she makes her way into the car.",
+      "url": "https://www.indiatoday.in/lifestyle/celebrity/story/mukesh-ambani-s-grandson-prithvi-makes-first-public-appearance-as-he-begins-nursery-school-see-pics-1925691-2022-03-15",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202203/Untitled_design_-_2022-03-15T1_0-647x363.jpeg?IeCAmEfxGio5Yqa9eEKHxqtNb_MGxo0N",
+      "publishedAt": "2022-03-15T12:30:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Trends Desk",
+      "title": "Director Ahmed Khan, wife turn up at Batman screening in a Batmobile, see photos - The Indian Express",
+      "description": "Reportedly, this limited-edition Batmobile has been manufactured by Gotham Motors, Ohio.",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/director-ahmed-khan-wife-turn-up-at-batman-screening-in-a-batmobile-7821076/",
+      "urlToImage": "https://images.indianexpress.com/2022/03/batmobile-ahmed-khan.jpg",
+      "publishedAt": "2022-03-15T11:56:07Z",
+      "content": "Batman fever has gripped people around the world, with fans thronging the theatres to watch the Caped Crusader. However, not many would have made the entrance that filmmaker-choreographer Ahmed Khan … [+1463 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Greatandhra.com"
+      },
+      "author": "Vamsi",
+      "title": "Trailer: Original Avengers On A Mission.. - Greatandhra",
+      "description": "Director Swaroop RSJ of Agent Sai Srinivasa Athreya is awaiting the release of his second directorial Mishan Impossible starring Taapsee Pannu.",
+      "url": "https://www.greatandhra.com/movies/news/trailer-original-avengers-on-a-mission-119716",
+      "urlToImage": "https://www.greatandhra.com/newphotos10/MishanImpossible11647343990.jpg",
+      "publishedAt": "2022-03-15T11:33:39Z",
+      "content": "Director Swaroop RSJ of Agent Sai Srinivasa Athreya is awaiting the release of his second directorial Mishan Impossible starring Taapsee Pannu.\r\nToday, superstar Mahesh Babu has unveiled theatrical t… [+1251 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Liz Mathew",
+      "title": "‘The Kashmir Files’ row: PM Modi tells BJP MPs to ‘stand up for those bringing out the truth’ - The Indian Express",
+      "description": "Referring to the uproar over 'Kashmir Files', the Prime Minister said while addressing the BJP’s Members of Parliament in the parliamentary party meeting that the reluctance over presenting history and historical figures in the right perspective has led to th…",
+      "url": "https://indianexpress.com/article/india/pm-narendra-modi-on-kashmir-files-row-7820791/",
+      "urlToImage": "https://images.indianexpress.com/2022/03/agni222.jpg",
+      "publishedAt": "2022-03-15T09:51:41Z",
+      "content": "Amidst a row over the recently released film TheKashmir Files, Prime Minister Narendra Modi Tuesday slammed the ecosystem that is involved in burying the truths and urged the Bharatiya Janata Partys … [+3631 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Entertainment Desk",
+      "title": "Gauri Khan enjoys a snack in the balcony of her famous home Mannat, fans say 'king and queen posted today' - Hindustan Times",
+      "description": "Filmmaker and interior designer Gauri Khan took to Instagram to share a new picture from her home Mannat. | Bollywood",
+      "url": "https://www.hindustantimes.com/entertainment/bollywood/gauri-khan-enjoys-a-snack-in-the-balcony-of-her-famous-home-mannat-fans-say-king-and-queen-posted-today-101647330506118.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/03/15/1600x900/gauri_khan_1647330594526_1647330594632.png",
+      "publishedAt": "2022-03-15T09:15:00Z",
+      "content": "Gauri Khan has shared a sun-lit picture from her famous home, Mannat. The interior designer and film producer took to Instagram to share a promotional post for a brand of apples. She is seen binging … [+1821 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Aamir Khan's Ex-Wife Reena Dutta Spotted At Actor's Birthday Bash - NDTV Movies",
+      "description": "Reena, along with her family, attended Aamir Khan's birthday bash",
+      "url": "https://www.ndtv.com/entertainment/aamir-khans-ex-wife-reena-dutta-spotted-at-actors-birthday-bash-2823732",
+      "urlToImage": "https://c.ndtvimg.com/2022-03/92p2vc4_reena-dutta_625x300_15_March_22.jpg",
+      "publishedAt": "2022-03-15T08:22:56Z",
+      "content": "Reena outside Aamir Khan's house.\r\nHighlights\r\n<ul><li>Aamir celebrated his 57th birthday\r\n</li><li>He married Reena in 1986\r\n</li><li>He has two children with Reena</li></ul>\r\nAamir Khan turned a ye… [+1557 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India.com"
+      },
+      "author": "Zee Media Bureau",
+      "title": "Aamir Khan breaks his silence on divorce from wife Kiran Rao, says `no second woman` involved! - Zee News",
+      "description": "Aamir Khan turned a year older on his birthday recently on March 14. The actor opened up on his divorce with wife Kiran Rao and how there was never a second woman involved as opposed to what rumours said.  In an interview with News18, Aamir Khan broke his sil…",
+      "url": "https://zeenews.india.com/people/aamir-khan-breaks-his-silence-on-divorce-from-wife-kiran-rao-says-no-second-woman-involved-2445392.html",
+      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2022/03/15/1022956-aamir-khan-kiran-rao.jpg",
+      "publishedAt": "2022-03-15T07:46:31Z",
+      "content": "New Delhi: Aamir Khan turned a year older on his birthday recently on March 14. The actor opened up on his divorce with wife Kiran Rao and how there was never a second woman involved as opposed to wh… [+1743 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India TV News"
+      },
+      "author": "India TV Entertainment Desk",
+      "title": "Swara Bhasker takes a dig at the success of Vivek Agnihotri's The Kashmir Files; gets brutally trolled instead - India TV News",
+      "description": "It seems that Swara Bhasker is not quite impressed with 'The Kashmir Files' and its success. The actress recently shared a cryptic tweet without taking any name and wrote, 'If you want someone to congratulate you for the ‘success’ of your efforts.. maybe don’…",
+      "url": "https://www.indiatvnews.com/entertainment/celebrities/swara-bhasker-takes-a-dig-at-success-of-vivek-agnihotri-the-kashmir-files-gets-brutally-trolled-instead-2022-03-15-764422",
+      "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2022/03/swarakashmiri-1647329808.jpg",
+      "publishedAt": "2022-03-15T07:37:34Z",
+      "content": "<ul><li>The Kashmir Files has gained appreciation from not just the critics but also fans and many celebs </li><li>However, it seems that Swara Bhasker is not quite impressed with the film and its su… [+2268 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Entertainment Desk",
+      "title": "Amrita Rao reveals RJ Anmol asked her to quit acting as he could see she was refusing offers over kissing scenes - Hindustan Times",
+      "description": "Vivah actor Amrita Rao has revealed that she declined several big movies because she wasn't comfortable doing kissing scenes on screen.  | Bollywood",
+      "url": "https://www.hindustantimes.com/entertainment/bollywood/amrita-rao-reveals-rj-anmol-asked-her-to-quit-acting-as-he-could-see-she-was-refusing-offers-over-kissing-scenes-101647322896408.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/03/15/1600x900/Amrita_Rao_RJ_Anmol_1647325992945_1647325993086.jpg",
+      "publishedAt": "2022-03-15T07:35:09Z",
+      "content": "Amrita Rao of Vivah fame has revealed that she turned down several film offers as she wasn't comfortable kissing her co-stars on screen. The actor said RJ Anmol, now her husband, could figure out wha… [+1624 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": null,
+      "title": "Ritesh Singh gets trolled for sharing ex-wife Rakhi Sawant's video, a netizen says 'Bheja fry kar dia h pori India ki' - Times of India",
+      "description": "Almost a month ago one of the most talked-about couples of the telly world Rakhi Sawant and Ritesh announced their separation on social media. The news of the duo's separation broke the hearts of millions of their fans. Rakhi and Ritesh were never legally mar…",
+      "url": "https://timesofindia.indiatimes.com/videos/tv/hindi/ritesh-singh-gets-trolled-for-sharing-ex-wife-rakhi-sawants-video-a-netizen-says-bheja-fry-kar-dia-h-pori-india-ki/videoshow/90218889.cms",
+      "urlToImage": "https://timesofindia.indiatimes.com/photo/90218889/size-77826/90218889.jpg",
+      "publishedAt": "2022-03-15T07:27:21Z",
+      "content": "Almost a month ago one of the most talked-about couples of the telly world Rakhi Sawant\r\n and Ritesh announced their separation on social media. The news of the duo's separation broke the hearts of m… [+1619 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Mumbai Police band plays viral Srivalli song in viral video, amazes Internet - Kalinga TV",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8va2FsaW5nYXR2LmNvbS9vZmZiZWF0L211bWJhaS1wb2xpY2UtYmFuZC1wbGF5cy12aXJhbC1zcml2YWxsaS1zb25nLWluLXZpcmFsLXZpZGVvLWFtYXplcy1pbnRlcm5ldC_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-03-15T07:24:49Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Entertainment Desk",
+      "title": "Runway 34 teaser: Salman Khan clears flightpath for Ajay Devgn, asks him to deliver this year’s Eidi - The Indian Express",
+      "description": "Runway 34 first teaser: The mysterious new film directed by and starring Ajay Devgn, has been unveiled. Check it out here.",
+      "url": "https://indianexpress.com/article/entertainment/bollywood/runway-34-teaser-ajay-devgn-amitabh-bachchan-7820494/",
+      "urlToImage": "https://images.indianexpress.com/2022/03/runway-34-teaser-ajay-devgn.jpg",
+      "publishedAt": "2022-03-15T07:23:38Z",
+      "content": "Ajay Devgn has unveiled the first teaser for his upcoming film Runway 34, co-starring Amitabh Bachchan and Rakul Preet Singh. Previously titled MayDay, the film is slated to be released in theatres o… [+2264 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "IndiaGlitz.com"
+      },
+      "author": "IndiaGlitz",
+      "title": "D.Imman finally opens up about his divorce, ex-wife and who he will remarry - Tamil News - Telugu Cinema - IndiaGlitz",
+      "description": "Popular music director D. Imman has been churning out his lilting melodies ever since he was a teenager.  His music has elevated many a film and he has made it a habit of delivering chartbusters",
+      "url": "https://www.indiaglitz.com/d-imman-divorce-ex-wife-monica-remarriage-to-uma-etharkkum-thunindhavan-tamil-news-309571",
+      "urlToImage": "https://1847884116.rsc.cdn77.org/tamil/news/dimman-divorce-1532022-8e6.jpg",
+      "publishedAt": "2022-03-15T07:22:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "\"Mood Shot By Mrs\": Vicky Kaushal Shows Off Wife Katrina Kaif's Photography Skills - NDTV",
+      "description": "The picture, clicked by Katrina Kaif, has created a lot of buzz on the social media platform",
+      "url": "https://www.ndtv.com/entertainment/vicky-kaushal-flashes-photo-clicked-by-wife-katrina-kaif-2823448",
+      "urlToImage": "https://c.ndtvimg.com/2022-03/bo2of67_vicky-kaushal_625x300_15_March_22.jpg",
+      "publishedAt": "2022-03-15T07:15:57Z",
+      "content": "Vicky Kaushal and Katrina Kaif. (courtesy: vickykaushal09)\r\nHighlights\r\n<ul><li>Vicky looked dashing in a recent post\r\n</li><li>Katrina turned photographer for husband Vicky\r\n</li><li>Vicky and Katri… [+1676 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "On Dieting And More: Check Out Vidya Balan's Recent AMA With Fans - NDTV Food",
+      "description": "Vidya Balan takes part in a fun AMA session with fans on Instagram. From dieting to her favourite cuisine and more, here is what it looked like.",
+      "url": "https://food.ndtv.com/food-drinks/on-dieting-and-more-check-out-vidya-balans-recent-ama-with-fans-2823586",
+      "urlToImage": "https://c.ndtvimg.com/2022-01/cla5jhko_vidya-balan_625x300_14_January_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
+      "publishedAt": "2022-03-15T07:04:21Z",
+      "content": "The immensely talented Vidya Balan is back to entertain us with her wit and humour. The actor recently put up an Instagram story asking her fans and followers to 'ask away' and her replies were just … [+1886 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Koimoi"
+      },
+      "author": "Joginder Tuteja",
+      "title": "Gangubai Kathiawadi Box Office Day 18: Alia Bhatt Starrer Crosses Ram Leela’s Overall Collection, Becomes Sanjay Leela Bhansali’s Third Biggest Grosser - Koimoi",
+      "description": "In just 18 days, Gangubai Kathiawadi has crossed the lifetime collections of Ram Leela. The Ranveer Singh and Deepika Padukone.",
+      "url": "https://www.koimoi.com/?p=885437",
+      "urlToImage": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2022/03/box-office-gangubai-kathiawadi-crosses-ram-leela-lifetime-in-18-days-is-sanjay-leela-bhansalis-third-biggest-grosser-001.jpg",
+      "publishedAt": "2022-03-15T07:03:31Z",
+      "content": "Gangubai Kathiawadi Box Office Day 18: Alia Bhatt Starrer Crosses Ram Leela’s Lifetime Collections In Less Than Three Weeks ( Photo Credit Movie Poster )\r\nIn just 18 days, Gangubai Kathiawadi has cro… [+1650 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "digitalspy.com"
+      },
+      "author": "Ian Sandwell",
+      "title": "Spider-Man No Way Home | Watch Full Film Online - Digital Spy",
+      "description": "Spidey's swinging onto your TV screens.",
+      "url": "https://www.digitalspy.com/movies/a39426114/watch-spider-man-no-way-home-online-tom-holland/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/toby-maguire-tom-holland-andrew-garfield-spider-man-no-way-home-1647257533.jpg?crop=1.00xw:0.987xh;0,0.0128xh&resize=1200:*",
+      "publishedAt": "2022-03-15T07:00:51Z",
+      "content": "Spider-Man fans have had to wait patiently, but No Way Home is now available to watch in the comfort of your own home.\r\nThe MCU epic broke all kinds of records at the box office following its release… [+1829 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "etimes.in",
+      "title": "'Radhe Shyam' opens to a mixed response; Prabhas's fan commits suicide - Times of India",
+      "description": "Prabhas has an insane fan following all over the world. Recently, a 24-year-old fan of the pan India star died by s",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/radhe-shyam-opens-to-mixed-response-fan-of-the-pan-india-star-prabhas-commits-suicide/articleshow/90218317.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-90218466,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-20488/90218466.jpg",
+      "publishedAt": "2022-03-15T07:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "\"Women In Sexy Clothes Worthless\"? In Neena Gupta Vs Trolls, The Winner Is... - NDTV",
+      "description": "Neena Gupta has left her unabashed note for those who judge women and their attire",
+      "url": "https://www.ndtv.com/entertainment/neena-guptas-message-for-those-who-troll-women-based-on-their-clothes-2823344",
+      "urlToImage": "https://c.ndtvimg.com/2022-03/7s3dvmcg_neenagupta650_625x300_15_March_22.jpg",
+      "publishedAt": "2022-03-15T06:28:25Z",
+      "content": "Neena Gupta poses for the camera (Image courtesy: neena_gupta)\r\nNeena Gupta's social media updates always keep us hooked. Her Instagram Reels are not only entertaining but also cool and impactful. No… [+1562 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "First Visuals From Brahmastra: Alia Bhatt As Isha - NDTV Movies",
+      "description": "These are the first visuals from Brahmastra",
+      "url": "https://www.ndtv.com/entertainment/alia-bhatts-birthday-gift-first-look-as-isha-from-brahmastra-2823410",
+      "urlToImage": "https://c.ndtvimg.com/2022-03/jkises8g_alia_625x300_15_March_22.jpg",
+      "publishedAt": "2022-03-15T06:12:00Z",
+      "content": "Alia Bhatt. (courtesy: aliaabhatt)\r\nHighlights\r\n<ul><li>Alia shared a glimpse of her look as Isha\r\n</li><li>Alia has turned 29 on Tuesday\r\n</li><li>Brahmastra to release on September 9</li></ul>\r\nOn … [+1570 chars]"
+    }
+  ],
+  "business": [
+    {
+      "source": {
+        "id": null,
+        "name": "Investing.com"
+      },
+      "author": "Reuters",
+      "title": "COVID, War and Fed push world stocks down for 4th day By Reuters - Investing.com",
+      "description": "COVID, War and Fed push world stocks down for 4th day",
+      "url": "https://www.investing.com/news/economy/asia-stocks-skid-as-ukraine-war-chinas-covid-surge-weigh-2784544",
+      "urlToImage": "https://i-invdn-com.investing.com/news/Brazil-Stock-Market_3_800x533_L_1414427437.jpg",
+      "publishedAt": "2022-03-15T13:39:00Z",
+      "content": "By Tommy Wilkes and Saikat Chatterjee\r\nLONDON (Reuters) - World stocks fell for a fourth consecutive session on Tuesday as a combination of rising COVID-19 cases in China, the war in Ukraine and worr… [+4505 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Now",
+      "title": "Nykaa most likely to emerge as great biz in 5-10 years; still not investing in Reliance: Saurabh Mukherjea - Economic Times",
+      "description": "Most of the new age tech do not make any money and have not ever made any money. Nykaa seems to be the best of these companies. Amongs the IPOs of this season, Nykaa seems to be the best managed and the most likely franchise to build a great business over a f…",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/nykaa-most-likely-to-emerge-as-great-biz-in-5-10-years-still-not-investing-in-reliance-saurabh-mukherjea/articleshow/90218658.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-90218800,width-1070,height-580,imgsize-9707,overlay-etmarkets/photo.jpg",
+      "publishedAt": "2022-03-15T13:24:00Z",
+      "content": "The Reliance transformation continues to progress in a positive direction tilting the company from an old style chemicals and refining business to a new economy company; but as yet we have not seen t… [+4455 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": null,
+      "title": "IT, e-commerce and logistics drive flexi-staffing in India, says industry federation - Moneycontrol",
+      "description": "ISF comprises human resources, and staffing firms such as TeamLease Services, Quess Corp, ManpowerGroup, Randstad, Gi Group, Genius Consultants, and Addeco among others.",
+      "url": "https://www.moneycontrol.com/news/business/companies/it-e-commerce-and-logistics-drive-flexi-staffing-in-india-says-industry-federation-8235361.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/03/‏Hiring-770x433.jpg",
+      "publishedAt": "2022-03-15T11:31:57Z",
+      "content": "Sectors such as information technology, e-commerce, retail and logistics are the lead sectors driving flexi-staffing in the country during the third quarter of the FY22, the Indian Staffing Federatio… [+1573 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": null,
+      "title": "Closing Bell: Market snaps 5-day winning streak, Nifty ends below 16,700; metals worst hit - Moneycontrol",
+      "description": "Among sectors, except auto all other sectoral indices ended in the red with IT, metal, power and oil & gas indices down 1-4 percent. The BSE midcap and smallcap indices lost 0.5 percent each.",
+      "url": "https://www.moneycontrol.com/news/business/markets/share-market-live-updates-stock-market-today-march-15-latest-news-bse-nse-sensex-nifty-covid-coronavirus-anupam-rasayan-india-reliance-industries-avantel-bse-dhampur-sugar-rane-brake-lining-rites-8232641.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/03/fandosensexniftyderivative-770x433.jpg",
+      "publishedAt": "2022-03-15T10:58:04Z",
+      "content": "March 15, 2022 / 03:37 PM IST\r\nMarket Close: The benchmark indices broke five day winning momentum with Nifty closing below 16700 dragged by metal, oil &amp; gas and IT stocks.\r\nAt close, the Sensex … [+572 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": null,
+      "title": "Gainers & Losers: Five stocks that moved the most on March 15 - Moneycontrol",
+      "description": "Sectorally, barring auto all other indices ended in the red with IT, metal, power and oil & gas indices falling 1-4 percent. The BSE midcap and smallcap indices lost 0.5 percent each.",
+      "url": "https://www.moneycontrol.com/news/photos/business/stocks/gainers-losers-five-stocks-that-moved-the-most-on-march-15-8235091.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/03/stocks_sensex_nifty_stockmarket-1-770x433.jpg",
+      "publishedAt": "2022-03-15T10:45:13Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zoom"
+      },
+      "author": "ET Now Digital",
+      "title": "[Exclusive] Zomato, Blinkit sign term-sheet for merger - Times Now",
+      "description": "In a major development in the world of consumer technology start-up world, recently-listed Zomato and instant delivery service Blinkit, formerly Grofers, have signed a term sheet as a precursor to the merger, ET Now has learnt.​ Zomato already owns a 10% stak…",
+      "url": "https://www.timesnownews.com/business-economy/companies/exclusive-zomato-blinkit-sign-term-sheet-for-merger-article-90222451",
+      "urlToImage": "https://static.tnn.in/thumb/msid-90222451,imgsize-100,width-1280,height-720,resizemode-75/90222451.jpg",
+      "publishedAt": "2022-03-15T10:04:00Z",
+      "content": "Aishwarya Rai, Abhishek and Aaradhya look happy in red at Tina Ambani's son Anmol Ambani's wedding, see pics"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CarToq.com"
+      },
+      "author": "Paarth Khatri",
+      "title": "Royal Enfield launches Himalayan Scram 411 at Rs. 2.03 lakhs ex-showroom - CarToq.com",
+      "description": "Royal Enfield has finally launched Himalayan Scram 411 in the Indian market. The prices start from Rs. 2.03 lakhs ex-showroom.  It will be going against the Yezdi Scrambler and Husqvarna Svartpilen 250. At Rs. 2.03 lakhs, the Scram 411 is priced Rs. 11,000 lo…",
+      "url": "https://www.cartoq.com/royal-enfield-launches-himalayan-scram-411-at-rs-2-03-lakhs-ex-showroom/",
+      "urlToImage": "https://www.cartoq.com/wp-content/uploads/2022/03/Royal-Enfield-Scram-411-launched.jpg",
+      "publishedAt": "2022-03-15T08:56:04Z",
+      "content": "Royal Enfield has finally launched Himalayan Scram 411 in the Indian market. The prices start from Rs. 2.03 lakhs ex-showroom.  It will be going against the Yezdi Scrambler and Husqvarna Svartpilen 2… [+2835 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Team-BHP"
+      },
+      "author": "Rahul Nagaraj",
+      "title": "Fiat unveils all-new Pulse Abarth SUV for Brazil - Team-BHP",
+      "description": "Abarth - the performance division of Fiat has made its return to the Brazilian market with the unveiling of the all-new Pulse Abarth. While the standard SUV has been on sale in the market for a while now, the performance-oriented Pulse Abarth version is expec…",
+      "url": "https://www.team-bhp.com/news/fiat-unveils-all-new-pulse-abarth-suv-brazil",
+      "urlToImage": "https://www.team-bhp.com/sites/default/files/styles/large/public/fiat-pulse-abarth-1.jpg",
+      "publishedAt": "2022-03-15T08:48:39Z",
+      "content": "Abarth - the performance division of Fiat has made its return to the Brazilian market with the unveiling of the all-new Pulse Abarth. While the standard SUV has been on sale in the market for a while… [+699 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": null,
+      "title": "Ahead of US Fed meet, experts gaze into their rate-hike crystal balls: Here's what they foretell - Moneycontrol",
+      "description": "Financial markets will look to the Federal Open Market Committee meeting for a timeline by which the US central bank will pare its bond holdings, guidance for future rate hikes, forecast on GDP growth and inflation.",
+      "url": "https://www.moneycontrol.com/news/business/economy/ahead-of-us-fed-meet-experts-gaze-into-their-rate-hike-crystal-balls-heres-what-they-foretell-8234061.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/08/interest-rates_shutterstock_254985844-770x433.jpg",
+      "publishedAt": "2022-03-15T08:17:04Z",
+      "content": "Investors and markets across the world will keep a close eye on what transpires at the US Federal Open Market Committee (FOMC) meeting that starts late tonight Indian standard time.\r\nThe two-day (Mar… [+4397 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "After talks with India's Future fail, Amazon goes on the attack in newspaper ads - Reuters India",
+      "description": "Amazon.com Inc said talks have failed to resolve a bitter dispute over Future Retail <a href=\"https://www.reuters.com/companies/FRTL.NS\" target=\"_blank\">(FRTL.NS)</a> stores and accused both it and Reliance Industries <a href=\"https://www.reuters.com/companie…",
+      "url": "https://www.reuters.com/world/india/amazon-accuses-indias-future-reliance-fraud-newspaper-ads-2022-03-15/",
+      "urlToImage": "https://www.reuters.com/resizer/ezq5C-nyVNOMjA_4PHGmcjpMx6Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YYHKKPBFWJPJBKCJ3UQY64XC6Y.jpg",
+      "publishedAt": "2022-03-15T08:15:00Z",
+      "content": "NEW DELHI, March 15 (Reuters) - Amazon.com Inc said talks have failed to resolve a bitter dispute over Future Retail (FRTL.NS) stores and accused both it and Reliance Industries (RELI.NS) of fraud in… [+2651 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Reuters",
+      "title": "SoftBank executives to leave boards of India's Paytm, Policybazaar: Report - Mint",
+      "description": "The decision is part of SoftBank's global strategy to exit from the boards of most of its listed portfolio companies, said the source, adding that the Japanese tech conglomerate expected it would leave fewer regulatory issues to tackle.",
+      "url": "https://www.livemint.com/companies/news/softbank-executives-to-leave-boards-of-india-s-paytm-policybazaar-report-11647331060875.html",
+      "urlToImage": "https://images.livemint.com/img/2022/03/15/600x338/DELHIVERY-IPO-1_1643762054565_1647331335059.JPG",
+      "publishedAt": "2022-03-15T08:04:10Z",
+      "content": "Representatives of SoftBank Group Corp will step down from the boards of Indian digital payments firm Paytm and the parent of online insurance aggregator Policybazaar, a person with direct knowledge … [+738 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "For Mumbai Airport, Adani Puts On Hold A Big Business Plan - NDTV",
+      "description": "Mumbai International Airport Ltd. has delayed a proposed dollar bond offering, according to people familiar with the matter, as market volatility prompts borrowers around the world to adjust their funding plans.",
+      "url": "https://www.ndtv.com/india-news/adani-groups-mumbai-airport-delays-proposed-dollar-bond-2823626",
+      "urlToImage": "https://c.ndtvimg.com/2022-02/q3gl71bc_mumbai-airport-reuters-650_625x300_21_February_22.jpg",
+      "publishedAt": "2022-03-15T07:28:00Z",
+      "content": "Mumbai airport is India's second-largest airport\r\nMumbai: Mumbai International Airport Ltd. has delayed a proposed dollar bond offering, according to people familiar with the matter, as market volati… [+1338 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "GoTo to Raise About $1.25 Billion in Indonesia IPO - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=0316d470-a44e-11ec-a4aa-71596c50506e&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wMy0xNC9nb3RvLXRvLXJhaXNlLWFib3V0LTEtMjUtYmlsbGlvbi1pbi1pbmRvbmVzaWEtaXBv",
+      "urlToImage": null,
+      "publishedAt": "2022-03-15T07:01:16Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": null,
+      "title": "MC Exclusive | Promoters of Manipal Hospitals in talks to buy part stake from TPG; deal may value firm at... - Moneycontrol",
+      "description": "Bengaluru-based Manipal Hospitals which is targeting an IPO in the next two to three years is also backed by Singapore’s Temasek and quasi sovereign wealth fund National Investment and Infrastructure Fund (NIIF).",
+      "url": "https://www.moneycontrol.com/news/business/companies/mc-exclusive-promoters-of-manipal-hospitals-in-talks-to-buy-part-stake-from-tpg-deal-may-value-firm-between-rs-18000-rs-20000-crore-8233911.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/06/Deal-770x433.jpg",
+      "publishedAt": "2022-03-15T06:19:13Z",
+      "content": "The promoter group of IPO-bound multi-speciality healthcare provider and operator Manipal Hospitals, led by Dr Ranjan Pai, is in talks to raise funds and buy back part stake from existing investor TP… [+2627 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Team-BHP"
+      },
+      "author": "Tushar Kelshikar",
+      "title": "2022 Toyota Glanza launched at Rs. 6.39 lakh - Team-BHP",
+      "description": "Toyota has launched the updated Glanza in India. The hatchback is available in four variants - E, S, G and V, with prices starting at Rs. 6.39 lakh (ex-showroom). The Glanza is based on the",
+      "url": "https://www.team-bhp.com/news/2022-toyota-glanza-launched-rs-639-lakh",
+      "urlToImage": "https://www.team-bhp.com/sites/default/files/styles/large/public/20220315_111629.jpg",
+      "publishedAt": "2022-03-15T06:12:21Z",
+      "content": "The Glanza is based on the 2022 Maruti Suzuki Baleno and is offered in four variants.\r\nToyota has launched the updated Glanza in India. The hatchback is available in four variants - E, S, G and V, wi… [+1250 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News18"
+      },
+      "author": "Business Desk",
+      "title": "Paytm Share Down 70% Since Listing, RBI Ban And Data Leak with China Firms: All You Need to Know - News18",
+      "description": "The Paytm stock is now valued at less than one-third of its initial offer price and is now trading at an all-time low price. Know why the Paytm share is sinking",
+      "url": "https://www.news18.com/news/business/markets/paytm-share-down-70-since-listing-rbi-ban-and-data-leak-with-china-firms-all-you-need-to-know-4875494.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2022/03/fntsipoxiauze4y.jpg",
+      "publishedAt": "2022-03-15T06:06:00Z",
+      "content": "After the RBI imposed a ban on onboarding new customers to Paytm Payments Bank on Saturday, the company stocks have seen almost a 70 per cent decline from their all-time high price. To further add, t… [+3850 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": null,
+      "title": "Inflation: We need to be worried now, says CRISIL’s Dharmakirti Joshi - Moneycontrol",
+      "description": "After the WPI and CPI numbers were released, CRISIL’s chief economist said that we need to start taking measures to contain the damage caused largely by external factors",
+      "url": "https://www.moneycontrol.com/news/business/inflation-we-need-to-be-worried-now-says-crisils-dharmakirti-joshi-8233791.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/03/DK-Joshi-New-770x433.jpg",
+      "publishedAt": "2022-03-15T06:01:04Z",
+      "content": "With the latest WPI and CPI numbers, at 13.11% and 6.07% respectively, there is cause for concern. Dharmakirti Joshi, Chief Economist at CRISIL, in an interview with Moneycontrol, said that the gover… [+6468 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Mukesh Ambani's $61 Million Buy For Clean Energy - NDTV Profit",
+      "description": "Indian refining giant Reliance Industries has acquired the assets of battery maker Lithium Werks for $61 million, its second such deal in less than three months, as it makes a bigger push towards clean energy and transport.",
+      "url": "https://www.ndtv.com/business/reliance-buys-assets-of-battery-maker-lithium-werks-in-clean-energy-push-2823302",
+      "urlToImage": "https://c.ndtvimg.com/2022-03/f04h03qo_ril-650_625x300_15_March_22.jpg",
+      "publishedAt": "2022-03-15T05:03:28Z",
+      "content": "The deal comes as Reliance looks to cut dependence on its mainstay oil-to-chemicals business.\r\nNew Delhi: Indian refining giant Reliance Industries has acquired the assets of battery maker Lithium We… [+1630 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Harish Damodaran",
+      "title": "Explained: Export avenue for farmers - The Indian Express",
+      "description": "With a bumper harvest on the way, and prices having firmed up because of the war in Ukraine, Indian farmers could have an opportunity for higher exports amid restrictions on Russian cargo movement.",
+      "url": "https://indianexpress.com/article/explained/export-avenue-for-farmers-bumper-crop-farm-income-7820016/",
+      "urlToImage": "https://images.indianexpress.com/2022/03/crops-1.jpg",
+      "publishedAt": "2022-03-15T04:34:31Z",
+      "content": "There are winners and losers in wars. And collateral beneficiaries too: The ongoing Russian invasion of Ukraine is happening when Indian farmers seem set to harvest a bumper rabi (winter-spring) crop… [+6530 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "Bandhan Bank shares surge over 7% today. Why Jefferies has 'Buy' tag - Mint",
+      "description": "Shares of Bandhan Bank surged more than 7% to  ₹283 per share on the BSE in Tuesday's early session",
+      "url": "https://www.livemint.com/market/stock-market-news/bandhan-bank-shares-surge-after-rbi-s-norms-on-mfi-loans-jefferies-has-buy-tag-on-the-bank-stock-11647317106578.html",
+      "urlToImage": "https://images.livemint.com/img/2022/03/15/600x338/Bandhan_Bank_1647317396671_1647317396792.JPG",
+      "publishedAt": "2022-03-15T04:31:08Z",
+      "content": "Shares of Bandhan Bank surged over 7% to 283 apiece on the BSE in Tuesday's early deals after the Reserve Bank of India's (RBI) relaxed norms on microfinance lending, which Jefferies believes are mos… [+1801 chars]"
+    }
+  ],
+  "science": [
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Tech",
+      "title": "Earth just survived TWO geomagnetic storms! And this was the impact - HT Tech",
+      "description": "On March 14 and 15th, two strong geomagnetic storms struck the Earth. Find out the impact of these storms on our home planet.",
+      "url": "https://tech.hindustantimes.com/tech/news/earth-just-survived-two-geomagnetic-storms-and-this-was-the-impact-71647352463547.html",
+      "urlToImage": "https://images.hindustantimes.com/tech/img/2022/03/15/1600x900/NOAA_1632590234307_1647352519202.JPG",
+      "publishedAt": "2022-03-15T13:57:38Z",
+      "content": "A few days ago, the Sun underwent a series of combustion reactions that gave rise to large solar flare activities and resultant coronal mass ejections (CME) flung several million kilometers in space.… [+3057 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zoom"
+      },
+      "author": "Times Now Digital",
+      "title": "Watch Live: Indian-American astronaut Raja Chari conducting spacewalk to upgrade solar panels on I.S.S - Times Now",
+      "description": "During the 6.5hr long spacewalk, Astronauts Kayla Barron and Raja Chari, who are the part of the crew of Expedition 66, will assemble and install modification kits required for upcoming solar array upgrades.",
+      "url": "https://www.timesnownews.com/technology-science/watch-live-indian-american-astronaut-raja-chari-conducting-spacewalk-to-upgrade-solar-panels-article-90227060",
+      "urlToImage": "https://static.tnn.in/thumb/msid-90227060,imgsize-100,width-1280,height-720,resizemode-75/90227060.jpg",
+      "publishedAt": "2022-03-15T13:17:00Z",
+      "content": "Aishwarya Rai, Abhishek and Aaradhya look happy in red at Tina Ambani's son Anmol Ambani's wedding, see pics"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "George Dvorsky",
+      "title": "Fossil Reveals One of the First Saber-Toothed Mammals - Gizmodo",
+      "description": "The 42-million-year-old predator, with its cat-like appearance and elongated fangs, was a sign of things to come.",
+      "url": "https://gizmodo.com/fossil-reveals-one-of-the-first-saber-toothed-mammals-1848651064",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/23f4c8dbf08dc4851e83fc0c7041066e.jpg",
+      "publishedAt": "2022-03-15T12:32:00Z",
+      "content": "Mammals with a nearly exclusive preference for meat are relatively common today, but new research uncovers one of the very first: a bobcat-sized carnivore that lived near what is now San Diego.\r\nNew … [+5851 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "NASA's Artemis 1 moon rocket making public debut on Thursday - 5 Dariya News",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vd3d3LjVkYXJpeWFuZXdzLmNvbS9uZXdzLzM2MzgwMS1OQVNBcy1BcnRlbWlzLTEtbW9vbi1yb2NrZXQtbWFraW5nLXB1YmxpYy1kZWJ1dC1vbi1UaHVyc2RhedIBYmh0dHBzOi8vd3d3LjVkYXJpeWFuZXdzLmNvbS9hbXAvMzYzODAxLU5BU0FzLUFydGVtaXMtMS1tb29uLXJvY2tldC1tYWtpbmctcHVibGljLWRlYnV0LW9uLVRodXJzZGF5?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-03-15T12:22:49Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bollyinside.com"
+      },
+      "author": null,
+      "title": "The first 20 years of SpaceX are commemorated in this video - BollyInside",
+      "description": "SpaceX has released a highlights video to commemorate its 20th anniversary. The movie includes crucial moments throughout the company’s first two decades",
+      "url": "https://www.bollyinside.com/news/technology/the-first-20-years-of-spacex-are-commemorated-in-this-video",
+      "urlToImage": "https://www.bollyinside.com/wp-content/uploads/2022/03/The-first-20-years-of-SpaceX-are-commemorated-in-this.jpg",
+      "publishedAt": "2022-03-15T12:22:22Z",
+      "content": "SpaceX has released a highlights video to commemorate its 20th anniversary. The movie includes crucial moments throughout the companys first two decades of business, and its been a crazy trip, as you… [+2986 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Insider India"
+      },
+      "author": "Morgan McFall-Johnsen",
+      "title": "NASA astronaut Mark Vande Hei breaks Scott Kelly's spaceflight record - Business Insider India",
+      "description": "NASA astronaut Mark Vande Hei has broken Scott Kelly's record for longest American spaceflight. Tuesday marks 341 days in space since Vande Hei launched to",
+      "url": "https://www.businessinsider.in/science/news/nasa-astronaut-mark-vande-hei-breaks-scott-kellys-spaceflight-record/articleshow/90226786.cms",
+      "urlToImage": "https://www.businessinsider.in/photo/90226786/nasa-astronaut-mark-vande-hei-breaks-scott-kellys-spaceflight-record.jpg?imgsize=182736",
+      "publishedAt": "2022-03-15T12:00:00Z",
+      "content": "NASA\r\n astronaut Mark Vande Hei\r\n has broken the record for longest US human spaceflight\r\n, a title former astronaut Scott Kelly has held since 2016.\r\nTuesday marks 341 consecutive days in space for … [+3926 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medicalmarketreport.com"
+      },
+      "author": "Jennifer Preston",
+      "title": "Is the Earth running out of oxygen? Check Out This Article To Find Out… - Medical Market Analysis",
+      "description": "he amount of oxygen in our atmosphere has decreased by about 2 percent since he made his calculation, and scientists estimate that the Earth",
+      "url": "https://medicalmarketreport.com/is-the-earth-running-out-of-oxygen-check-out-this-article-to-find-out/",
+      "urlToImage": "http://medicalmarketreport.com/wp-content/uploads/2022/03/Earth.jpg",
+      "publishedAt": "2022-03-15T11:56:19Z",
+      "content": "Scientists have been debating for decades about when oxygen levels first became detectable in the Earth’s atmosphere. Over the past century, scientists have debated the idea of the Great Oxygenation … [+4652 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Bharat Sharma",
+      "title": "Asteroid That Slammed Into Earth Last Week Was Discovered 2 Hours Before It Hit - Indiatimes.com",
+      "description": "The fifth asteroid to be ever discovered before hitting Earth landed near Iceland last Friday after being discovered only two hours before the impact.Officially called \"2022 EB5\", the asteroid was spotted on March 11 by astronomer Krisztián Sárneczky using th…",
+      "url": "https://www.indiatimes.com/technology/science-and-future/asteroid-that-slammed-into-earth-last-week-was-discovered-2-hours-before-it-hit-564520.html",
+      "urlToImage": "https://im.indiatimes.in/content/2022/Mar/FBImage25-copy_623086285449a.jpg",
+      "publishedAt": "2022-03-15T11:53:27Z",
+      "content": "The fifth asteroid to be ever discovered before hitting Earth landed near Iceland last Friday after being discovered only two hours before the impact.\r\nOfficially called \"2022 EB5\", the asteroid was … [+2028 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Earth.com"
+      },
+      "author": null,
+      "title": "Sharks can literally sleep with their eyes open - Earth.com",
+      "description": "Sharks can literally sleep with their eyes open • Earth.com",
+      "url": "https://www.earth.com/news/sharks-can-literally-sleep-with-their-eyes-open/",
+      "urlToImage": "https://cff2.earth.com/uploads/2022/03/14205406/Shark-sleep-scaled.jpg",
+      "publishedAt": "2022-03-15T11:03:56Z",
+      "content": "A new study from the University of Auckland is providing the first physiological evidence of how and why sharks sleep. The experts confirmed that sharks sleep with a flat and rigid body posture – and… [+2474 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News9live.com"
+      },
+      "author": "News9 Staff",
+      "title": "Great Oxygenation Event: MIT Scientists fresh theory for one of Sciences great mysteries - News9 LIVE",
+      "description": "The study to appear in Nature Communications is the first to connect the co-evolution of microbes...",
+      "url": "https://www.news9live.com/science/great-oxygenation-event-mit-scientists-fresh-theory-for-one-of-sciences-great-mysteries-159223",
+      "urlToImage": "https://media.news9live.com/h-upload/2022/03/15/256631-microbe.jpg",
+      "publishedAt": "2022-03-15T10:52:32Z",
+      "content": "The Great Oxygenation Event (GOE), occurred around 2.3 billion years ago and introduced free oxygen into our atmosphere. The reason for the incident still remains one of science's great mysteries. A … [+2928 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Express"
+      },
+      "author": "Callum Hoare",
+      "title": "Egypt breakthrough: New Great Pyramid scan tipped to expose Khufu's hidden chamber - Express",
+      "description": "AN EGYPT breakthrough may be on the horizon as a new powerful scan of the Great Pyramid of Giza could finally show what is inside two mysterious voids.",
+      "url": "https://www.express.co.uk/news/science/1580813/egypt-breakthrough-great-pyramid-giza-scan-khufu-hidden-chamber",
+      "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/151/750x445/1580813.jpg",
+      "publishedAt": "2022-03-15T10:37:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TweakTown"
+      },
+      "author": "Adam Hunt",
+      "title": "This binary star has three distinct solar systems forming around it - TweakTown",
+      "description": "Astronomers have observed SVS 13, a binary star system with a protoplanetary disk around each star, and a third disk around both.",
+      "url": "https://www.tweaktown.com/news/85081/wild-binary-star-has-three-distinct-solar-systems-forming-around-it/index.html",
+      "urlToImage": "https://static.tweaktown.com/news/8/5/85081_01_not-one-two-but-three-planetary-systems-are-forming-around-this_full.jpg",
+      "publishedAt": "2022-03-15T10:25:02Z",
+      "content": "A study on the star system titled \"The Physical Properties of the SVS 13 Protobinary System: Two Circumstellar Disks and a Spiraling Circumbinary Disk in the Making\" has been accepted for publication… [+2069 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Environmental Defense Fund"
+      },
+      "author": null,
+      "title": "New study: Swift methane action could help save Arctic summer sea ice, forestall global warming impacts - Environmental Defense Fund",
+      "description": "New EDF research reveals there's hope for preserving Arctic summer sea ice for future generations.",
+      "url": "https://www.edf.org/media/new-study-swift-methane-action-could-help-save-arctic-summer-sea-ice-forestall-global-warming",
+      "urlToImage": "https://www.edf.org/sites/all/themes/edf/images/edf-logo-1200x630.jpg",
+      "publishedAt": "2022-03-15T10:04:15Z",
+      "content": "(March 15, 2022) New research shows that immediate action to reduce methane emissions could help preserve Arctic summer sea ice this century. Previous studies predict Arctic summer sea ice could disa… [+5016 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Technology Networks"
+      },
+      "author": "Technology Networks",
+      "title": "Microscopic Marine Life Helps Warming Ocean Adapt - Technology Networks",
+      "description": "A study examining 30 years of data has indicated that microscopic ocean life that drives the carbon cycle is adapting as the ocean warms due to climate change.",
+      "url": "https://www.technologynetworks.com/applied-sciences/news/microscopic-marine-life-helps-warming-ocean-adapt-359572",
+      "urlToImage": "https://assets.technologynetworks.com/production/dynamic/images/content/359572/microscopic-marine-life-helps-warming-ocean-adapt-359572-640x360.jpg?cb=20220315",
+      "publishedAt": "2022-03-15T09:47:36Z",
+      "content": "Climate change will challenge many of the processes that sustain life around the globe, but new research led by Bigelow Laboratory for Ocean Sciences provides a fresh look at the planets resiliency. … [+3276 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SciTechDaily"
+      },
+      "author": null,
+      "title": "Scientists Use 196 Lasers To Recreate the Conditions Inside Gigantic Galaxy Clusters – “One of the Most Awe-Inspiring Things in the Universe” - SciTechDaily",
+      "description": "Experiments point the way to solving mystery that keeps clusters hot. Galaxies rarely live alone. Instead, dozens to thousands are drawn together by gravity, forming vast clusters that are the largest objects in the universe. “Galaxy clusters are one of the m…",
+      "url": "https://scitechdaily.com/scientists-use-196-lasers-to-recreate-the-conditions-inside-gigantic-galaxy-clusters-one-of-the-most-awe-inspiring-things-in-the-universe/",
+      "urlToImage": "https://scitechdaily.com/images/196-Lasers-Experiment-Computer-Simulation.jpg",
+      "publishedAt": "2022-03-15T09:21:46Z",
+      "content": "A technician works at the National Ignition Facility. Scientists used the array of 196 lasers to create conditions similar to the hot gas inside gigantic galaxy clusters.\r\nExperiments point the way t… [+6537 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "THE WEEK"
+      },
+      "author": "Web Desk",
+      "title": "Enormous sinkholes the size of city blocks discovered on Arctic seafloor - The Week",
+      "description": "Permafrost or ground that is permanently frozen has been thawing in the Arctic",
+      "url": "https://www.theweek.in/news/world/2022/03/15/enormous-sinkholes-the-size-of-city-blocks-discovered-on-arctic-seafloor.html",
+      "urlToImage": "https://www.theweek.in/content/dam/week/news/arcticoceanf.jpg",
+      "publishedAt": "2022-03-15T08:50:35Z",
+      "content": "Enormous sinkholes, the size of a city block with a six-storey building have been discovered on the floor of the Arctic ocean. Marine scientists have also discovered ice-filled hills on the seafloor.… [+1250 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Education Diary"
+      },
+      "author": "iednewsdesk",
+      "title": "UC San Diego: Researchers ID Sex Pheromone of Invasive Giant Hornet - India Education Diary",
+      "description": "The world’s largest hornet has been the focus of extensive news coverage of late due to its menacing appearance and expanding footprint in North America.But while the “murder hornet” label attached to the Asian giant hornet (Vespa mandarinia) may be",
+      "url": "https://indiaeducationdiary.in/uc-san-diego-researchers-id-sex-pheromone-of-invasive-giant-hornet/",
+      "urlToImage": "https://indiaeducationdiary.in/wp-content/uploads/2021/02/1200px-University_of_California_San_Diego_seal.svg_-1024x1024.png",
+      "publishedAt": "2022-03-15T08:48:03Z",
+      "content": "The worlds largest hornet has been the focus of extensive news coverage of late due to its menacing appearance and expanding footprint in North America.\r\nBut while the murder hornet label attached to… [+3825 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "'We are ready to roll to the pad': Marshall Space Flight Center Director gives update on Artemis I - FOX54 News Huntsville",
+      "description": "FOX54 News spoke with Marshall Space Flight Center Director, Jodi Singer about the expected rollout this Thursday.",
+      "url": "https://www.youtube.com/watch?v=Rdt3BsXDgS4",
+      "urlToImage": "https://i.ytimg.com/vi/Rdt3BsXDgS4/hqdefault.jpg",
+      "publishedAt": "2022-03-15T02:12:57Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "EurekAlert"
+      },
+      "author": null,
+      "title": "Hot springs reveal where continental plates collide beneath Tibet - EurekAlert",
+      "description": "By analyzing the chemistry of over 200 geothermal springs, researchers have identified where the Indian Plate ends beneath Tibet, debunking some long-debated theories about the process of continental collision.",
+      "url": "https://www.eurekalert.org/news-releases/946258",
+      "urlToImage": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/1c931e62-b4db-44de-a946-fa9cb4c23919/Rendition/thumbnail/Content/Public",
+      "publishedAt": "2022-03-15T02:02:51Z",
+      "content": "image: Pictured is a continuously spouting cauldron of near-boiling water, one of a dozen spanning a 10-acre geothermal field at Mangra in southern Tibet. Helium-isotope geochemistry shows it sits ab… [+7027 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "EurekAlert"
+      },
+      "author": null,
+      "title": "Lisa Kewley named Director of the Center for Astrophysics | Harvard & Smithsonian - EurekAlert",
+      "description": "Astrophysicist specializing in galaxy formation and evolution will take the helm of the prestigious research collaboration between Harvard and the Smithsonian.",
+      "url": "https://www.eurekalert.org/news-releases/946280",
+      "urlToImage": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/34b2e37b-8e1a-470f-9398-847d946f65ae/Rendition/thumbnail/Content/Public",
+      "publishedAt": "2022-03-15T02:02:51Z",
+      "content": "image: Astrophysicist Lisa Kewley has been named director of the Center for Astrophysics | Harvard &amp; Smithsonian.view more \r\nCredit: Cristy Roberts/ASTRO 3D\r\nCambridge, Mass. – Lisa J. Kewley has… [+5044 chars]"
+    }
+  ],
+  "health": [
+    {
+      "source": {
+        "id": null,
+        "name": "Newswise"
+      },
+      "author": "Ohio State University",
+      "title": "Vaccine protects against ‘tough cookie’ parasite found in the Americas - Newswise",
+      "description": "The parasites that cause a disfiguring skin disease affecting about 12 million people globally may have met their match in vaccines developed using CRISPR gene-",
+      "url": "https://www.newswise.com/articles/vaccine-protects-against-tough-cookie-parasite-found-in-the-americas",
+      "urlToImage": "https://www.newswise.com/assets/new/img/newswise-logo-square.jpg",
+      "publishedAt": "2022-03-15T14:05:00Z",
+      "content": "Newswise — COLUMBUS, Ohio – The parasites that cause a disfiguring skin disease affecting about 12 million people globally may have met their match in vaccines developed using CRISPR gene-editing tec… [+5132 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Free Press Journal"
+      },
+      "author": "IANS",
+      "title": "US scientists develop Nipah virus vaccine that can save lives in just 3 days - Free Press Journal",
+      "description": "The virus had three outbreaks in India in the last four years, and has so far claimed nearly 20 lives, including a 12-year-old boy from Kerala.",
+      "url": "https://www.freepressjournal.in/world/us-scientists-develop-nipah-virus-vaccine-that-can-save-lives-in-just-3-days",
+      "urlToImage": "https://images.assettype.com/freepressjournal/2022-03/56262206-4a9d-4da2-9406-ee6964c7b6ee/Vaccination_AFP_1200x768__3_.webp?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+      "publishedAt": "2022-03-15T14:03:04Z",
+      "content": "Scientists at the University of Texas have developed a vaccine that could protect against the deadly Nipah virus in just three days.\r\nNipah is a zoonotic virus (transmitted from animals to humans), w… [+3389 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": null,
+      "title": "Severe Covid-19 linked with increased risk of long-term adverse mental health outcomes: Lancet study - India Today",
+      "description": "According to a study published in The Lancet, a Covid 19 infected person was more likely to experience depressive symptoms upto 16 months after diagnosis compared to those never infected.",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/severe-covid-19-mental-health-lancet-study-1925736-2022-03-15",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202203/corona-647x363.jpeg?fBpg9BPuaUM.k50AxxQqOm.3A254u09N",
+      "publishedAt": "2022-03-15T14:02:55Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PR Web"
+      },
+      "author": null,
+      "title": "RSNA: 'Long COVID' Linked to Lasting Airways Disease in Lungs - PR Web",
+      "description": "OAK BROOK, Ill. (PRWEB) March 15, 2022 \n\n Disease of the small airways in the lungs is a potential long-lasting effect of COVID-19, according to a new study published in the journal Radiology. The s",
+      "url": "https://www.prweb.com/releases/rsna_long_covid_linked_to_lasting_airways_disease_in_lungs/prweb18549722.htm",
+      "urlToImage": null,
+      "publishedAt": "2022-03-15T14:01:45Z",
+      "content": "For the first time, were describing small airways disease in this population of COVID-19 patients with persistent symptoms. Something is going on in the distal airways related to either inflammation … [+5443 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News-Medical.Net"
+      },
+      "author": null,
+      "title": "Moderate hyperglycemia associated with poor COVID-19 prognosis - News-Medical.Net",
+      "description": "Scientists have revealed that non-diabetic patients with moderate hyperglycemia are more likely to develop severe and fatal COVID-19 than diabetic patients.",
+      "url": "https://www.news-medical.net/news/20220315/Moderate-hyperglycemia-associated-with-poor-COVID-19-prognosis.aspx",
+      "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_707228_16473510893622607.jpg",
+      "publishedAt": "2022-03-15T13:43:00Z",
+      "content": "In a recently published article in the journal Primary Care Diabetes, scientists have revealed that non-diabetic patients with moderate hyperglycemia are more likely to develop severe and fatal coron… [+3797 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Tribune India"
+      },
+      "author": "The Tribune India",
+      "title": "New malaria therapy for children gets first approval - The Tribune India",
+      "description": "A new combination drug therapy against a type of malaria in kids aged 2 to 16 has received the first approval from Australian regulators. The single dose tafenoquine (Kozenis), administered together with the standard chloroquine therapy, was developed by UK d…",
+      "url": "https://www.tribuneindia.com/news/schools/new-malaria-therapy-for-children-gets-first-approval-378064",
+      "urlToImage": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/3/2022_3$largeimg_351939556.jpg",
+      "publishedAt": "2022-03-15T13:16:00Z",
+      "content": "Sydney, March 15\r\nA new combination drug therapy against a type of malaria in kids aged 2 to 16 has received the first approval from Australian regulators. The single dose tafenoquine (Kozenis), admi… [+2912 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Brytfmonline.com"
+      },
+      "author": "Andrea Hargraves",
+      "title": "Dr. Jairo • Can cervical cancer be cured? - brytfmonline.com",
+      "description": "a Ministry of Health Alert in anticipation of The Lilac March, a campaign to prevent...",
+      "url": "https://www.brytfmonline.com/dr-jairo-can-cervical-cancer-be-cured/",
+      "urlToImage": null,
+      "publishedAt": "2022-03-15T13:10:41Z",
+      "content": "a Ministry of Health Alert in anticipation of The Lilac March, a campaign to prevent and combat cervical cancer.\r\n The idea is to encourage women to know the basic forms of care and pay attention to … [+2313 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Sophie Mellor",
+      "title": "COVID-19 lockdowns accidentally cut cases of another killer disease to historical lows - Fortune",
+      "description": "Public health measures designed to slow the spread of spread of COVID-19 have unexpectedly cut the number of Dengue fever cases in Latin America and Southeast Asia by almost half.",
+      "url": "https://fortune.com/2022/03/15/covid-19-lockdowns-cut-cases-dengue-fever-historical-lows-lancet/",
+      "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/03/GettyImages-1235870419.jpg?resize=1200,600",
+      "publishedAt": "2022-03-15T13:04:35Z",
+      "content": "Skip to Content"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tech Explorist"
+      },
+      "author": "https://www.facebook.com/malewar.amit",
+      "title": "Scientists identified novel brain fear mechanisms - Tech Explorist",
+      "description": "The study offers a potential new drug target for treating anxiety and psychological disorders.",
+      "url": "https://www.techexplorist.com/scientists-identified-novel-brain-fear-mechanisms/45357/",
+      "urlToImage": "https://cdn.techexplorist.com/wp-content/uploads/2022/03/Brain-cells.jpg",
+      "publishedAt": "2022-03-15T12:42:34Z",
+      "content": "Not all anxiety-reducing drugs are effective. Sometimes, they have unwanted side effects. Understanding the brain networks and mechanisms which underlie fear and nervousness might offer another way t… [+2538 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biomedcentral.com"
+      },
+      "author": null,
+      "title": "The route of SARS-CoV-2 to brain infection: have we been barking up the wrong tree? - Molecular Neurodegeneration - Molecular Neurodegeneration",
+      "description": "This letter draws attention to recent work supporting the notion that the SARS-CoV-2 virus may use the nervus terminalis rather than the olfactory nerve as a shortcut route from the nasal cavity to infect the brain.",
+      "url": "https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-022-00529-9",
+      "urlToImage": "https://media.springernature.com/w200/springer-static/cover/journal/13024.jpg",
+      "publishedAt": "2022-03-15T12:34:29Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Massgeneral.org"
+      },
+      "author": null,
+      "title": "Many patients with severe COVID-19 recover consciousness, but recovery can take days or even weeks - Massachusetts General Hospital",
+      "description": "",
+      "url": "https://www.massgeneral.org/news/press-release/Covid-recovery-and-consciousness",
+      "urlToImage": "/assets/MGH/images/_global/MassGeneral-Campus-River.jpg",
+      "publishedAt": "2022-03-15T12:12:46Z",
+      "content": "We found that low blood oxygen levels correlated with the time to recovery, even after accounting for other factors such as exposure to sedatives.\r\nBrian L. Edlow, MDCenter for Neurotechnology and Ne… [+6337 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Womansera.com"
+      },
+      "author": "Himshikha Shukla",
+      "title": "Understanding the Physical & Mental Side-Effects of Not Getting Enough Sleep - - Woman's Era",
+      "description": "Womansera magazine is a platform for women to get latest info and tips on fashion, beauty, health and relationship advice. Subscribe to India's No.1 women's magazine!",
+      "url": "https://womansera.com/understanding-the-physical-mental-side-effects-of-not-getting-enough-sleep/",
+      "urlToImage": "https://womansera.com/wp-content/uploads/2022/03/Sleeplessness.jpg",
+      "publishedAt": "2022-03-15T11:49:54Z",
+      "content": "Did you know that an estimated 33 million people worldwide suffer from insomnia? Whats more, its also estimated that around 22 million Americans suffer from sleep apnea. And the majority of these cas… [+4478 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsclick.in"
+      },
+      "author": null,
+      "title": "Alzheimer’s Disease: Cognitive Decline Prominent Indicator of Life Expectancy - NewsClick",
+      "description": "Life expectancy for Alzheimer’s patients typically ranges from 3-12 years.",
+      "url": "https://www.newsclick.in/alzheimer-disease-cognitive-decline-prominent-indicator-life-expectancy",
+      "urlToImage": "https://www.newsclick.in/sites/default/files/2022-03/mind47.png",
+      "publishedAt": "2022-03-15T11:47:14Z",
+      "content": "Alzheimers disease, which is characterised mainly by memory loss and cognitive decline, also affects the life expectancy of the patient. How much time the patient will live after being diagnosed with… [+3571 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "New COVID-19 vaccine uses familiar technology to fight virus - First Coast News",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_1x-MiXGQI4",
+      "urlToImage": null,
+      "publishedAt": "2022-03-15T11:25:17Z",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Education Diary"
+      },
+      "author": "iednewsdesk",
+      "title": "University of Southern California: Metastatic prostate cancer on the rise since decrease in cancer screenings - India Education Diary",
+      "description": "A new study from Keck Medicine of USC finds that the incidence rate of metastatic prostate cancer has significantly increased for men 45 and older and coincides with recommendations against routine prostate cancer screenings.\"This study is the first",
+      "url": "https://indiaeducationdiary.in/university-of-southern-california-metastatic-prostate-cancer-on-the-rise-since-decrease-in-cancer-screenings/",
+      "urlToImage": "https://indiaeducationdiary.in/wp-content/uploads/2021/03/University-of-Southern-California.jpg",
+      "publishedAt": "2022-03-15T11:16:11Z",
+      "content": "A new study from Keck Medicine of USC finds that the incidence rate of metastatic prostate cancer has significantly increased for men 45 and older and coincides with recommendations against routine p… [+4790 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Education Diary"
+      },
+      "author": "iednewsdesk",
+      "title": "University of Southern California: USC experts discover brain differences in young children with binge eating disorder - India Education Diary",
+      "description": "Brain scans of children ages 9-10 with a type of eating disorder that causes uncontrollable overeating showed differences in gray matter density compared to their unaffected peers, according to a USC-led study.Binge eating disorder, which affects abo",
+      "url": "https://indiaeducationdiary.in/university-of-southern-california-usc-experts-discover-brain-differences-in-young-children-with-binge-eating-disorder/",
+      "urlToImage": "https://indiaeducationdiary.in/wp-content/uploads/2021/03/University-of-Southern-California.jpg",
+      "publishedAt": "2022-03-15T11:16:11Z",
+      "content": "Brain scans of children ages 9-10 with a type of eating disorder that causes uncontrollable overeating showed differences in gray matter density compared to their unaffected peers, according to a USC… [+2925 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "PTI",
+      "title": "Exercise may help treat long Covid-induced diabetes, depression: Study - The Indian Express",
+      "description": "According to the US Centers for Disease Control, Long COVID is \"a constellation of other debilitating symptoms\" including brain fog, muscle pain, and fatigue that can last for months after a person recovers from the initial infection",
+      "url": "https://indianexpress.com/article/lifestyle/health/exercise-help-treat-long-covid-diabetes-depression-study-7819066/",
+      "urlToImage": "https://images.indianexpress.com/2022/02/Jogging-1200.jpg",
+      "publishedAt": "2022-03-15T10:50:17Z",
+      "content": "Exercise may lower inflammation that can lead to diabetes and depression months after a person recovers from SARS-CoV-2, the virus that causes COVID-19, according to a study.Researchers at Pennington… [+2565 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "How COVID vaccines impact breastmilk - 11Alive",
+      "description": "We're learning more about how the COVID-19 vaccines affect new moms.",
+      "url": "https://www.youtube.com/watch?v=JUgA9LYMxQo",
+      "urlToImage": "https://i.ytimg.com/vi/JUgA9LYMxQo/hqdefault.jpg",
+      "publishedAt": "2022-03-15T10:43:14Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Can exercise be an antidote for Alzheimer's disease? Study finds those will higher fitness level have 33 % - Economic Times",
+      "description": "Main factors that determine peoples fitness are genetics and exercise.",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/can-exercise-be-an-antidote-for-alzheimers-disease-study-finds-those-will-higher-fitness-level-have-33-reduced-risk-of-the-ailment/articleshow/90222993.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-90223277,width-1070,height-580,imgsize-1282132,overlay-etpanache/photo.jpg",
+      "publishedAt": "2022-03-15T10:43:00Z",
+      "content": "Your fitness level determines whether you go through your day like a zombie or a functioning human being. It allows you to perform day-to-day tasks with energy, and keeps you in a good mood. Fitness … [+2298 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Parmita Uniyal",
+      "title": "Top lifestyle mistakes that could increase your risk of breast cancer - Hindustan Times",
+      "description": "From eating junk, not exercising to drinking and smoking, here are some harmful habits that may increase your risk of breast cancer. | Health",
+      "url": "https://www.hindustantimes.com/lifestyle/health/top-lifestyle-mistakes-that-could-increase-your-risk-of-breast-cancer-101647340417705.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/03/15/1600x900/breast_cancer_1647340468033_1647340477771.jpg",
+      "publishedAt": "2022-03-15T10:41:07Z",
+      "content": "The battle with cancer is never easy and the side-effects are often drastic lowering the immunity of a person suffering from it and making the normal life difficult. While there are certain factors l… [+3075 chars]"
+    }
+  ],
+  "technology": [
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "How to get Every Ending in Elden Ring - GameSpot",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdGdnQ6XBz70",
+      "urlToImage": null,
+      "publishedAt": "2022-03-15T14:00:13Z",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AnandTech"
+      },
+      "author": "Ryan Smith, Gavin Bonshor",
+      "title": "AMD's Ryzen 7 5800X3D Launches April 20th, Plus 6 New Low & Mid-Range Ryzen Chips - AnandTech",
+      "description": null,
+      "url": "https://www.anandtech.com/show/17313/ryzen-7-5800x3d-launches-april-20th-plus-6-new-low-mid-range-ryzen-chips",
+      "urlToImage": "https://images.anandtech.com/doci/17313/Zen3V_678x452.jpg",
+      "publishedAt": "2022-03-15T14:00:00Z",
+      "content": "Since the launch of AMD’s Zen 3-powered Ryzen 5000 desktop processors in late 2020, the company’s retail desktop chip offerings have been rather static. With AMD facing heavy demand for products on m… [+17597 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "entertainment.ie"
+      },
+      "author": "Mike Finnerty",
+      "title": "Someone managed to beat 'Elden Ring' in under 37 minutes - entertainment.ie",
+      "description": "If there's one thing speedrunners love, it's a good challenge.Challenges don't come bigger than FromSoftware's latest epic 'Elden Ring', and a speedrunner by t...",
+      "url": "https://entertainment.ie/gaming/elden-ring-speedrunning-516134",
+      "urlToImage": "https://images.entertainment.ie/uploads/2021/12/21151407/eldenring.png?w=1280&h=768&q=high",
+      "publishedAt": "2022-03-15T13:06:16Z",
+      "content": "If there's one thing speedrunners love, it's a good challenge.\r\nChallenges don't come bigger than FromSoftware's latest epic 'Elden Ring', and a speedrunner by the name of Distortion2 managed to beat… [+1345 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Xiaomi 12 Pro vs. Mi 11 Ultra: Smaller but better?! - 9to5Google",
+      "description": "Two titans go head-to-head, is the Xiaomi 12 Pro vastly superior to the Xiaomi Mi 11 Ultra?...It's closer than you think!Subscribe ► http://bit.ly/9to5G | Re...",
+      "url": "https://www.youtube.com/watch?v=t0oXQOk4Jj4",
+      "urlToImage": "https://i.ytimg.com/vi/t0oXQOk4Jj4/maxresdefault.jpg",
+      "publishedAt": "2022-03-15T13:00:33Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Xiaomi's new premium earbuds and smartwatches are the perfect match for the Xiaomi 12 lineup - Android Police",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiS2h0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tL3hpYW9taS1idWRzLTN0LXByby13YXRjaC1zMS1hY3RpdmUtYW5ub3VuY2VkL9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-03-15T13:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News9live.com"
+      },
+      "author": "News9 Staff",
+      "title": "Sony will host a special State of Play event showcasing Hogwarts Legacy on Friday - News9 LIVE",
+      "description": "State of Play live event will go on for about 20 minutes, featuring over 14 minutes of Hogwarts...",
+      "url": "https://www.news9live.com/technology/gaming/sony-will-host-a-special-state-of-play-event-showcasing-hogwarts-legacy-on-friday-159252",
+      "urlToImage": "https://media.news9live.com/h-upload/2022/03/15/256687-hogwarts-legacy.jpg",
+      "publishedAt": "2022-03-15T12:52:53Z",
+      "content": "Sony will be holding a special State of Play live event showcasing the upcoming Harry Potter books based open-world, action RPG Hogwarts Legacy. The game has been developed by and published by Warner… [+1853 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Asus launches new ROG Strix and TUF series laptops in India - BusinessLine",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMilAFodHRwczovL3d3dy50aGVoaW5kdWJ1c2luZXNzbGluZS5jb20vaW5mby10ZWNoL2NvbXB1dGVycy1hbmQtbGFwdG9wcy9hc3VzLWxhdW5jaGVzLW5ldy1yb2ctc3RyaXgtYW5kLXR1Zi1zZXJpZXMtbGFwdG9wcy1pbi1pbmRpYS9hcnRpY2xlNjUyMjcyMzMuZWNl0gGZAWh0dHBzOi8vd3d3LnRoZWhpbmR1YnVzaW5lc3NsaW5lLmNvbS9pbmZvLXRlY2gvY29tcHV0ZXJzLWFuZC1sYXB0b3BzL2FzdXMtbGF1bmNoZXMtbmV3LXJvZy1zdHJpeC1hbmQtdHVmLXNlcmllcy1sYXB0b3BzLWluLWluZGlhL2FydGljbGU2NTIyNzIzMy5lY2UvYW1wLw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-03-15T12:43:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Video Games Chronicle"
+      },
+      "author": "Andy Robinson",
+      "title": "Insiders describe 'fast and furious' exits from Xbox's Perfect Dark studio | VGC - Video Games Chronicle",
+      "description": "As much as half of the core development team have quit in the past year; Initiative management says it's \"confident\"",
+      "url": "https://www.videogameschronicle.com/news/insiders-describe-fast-and-furious-exits-from-xboxs-perfect-dark-studio/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2020/12/Perfect-Dark-e1607645844822.jpg",
+      "publishedAt": "2022-03-15T12:33:48Z",
+      "content": "Xboxs The Initiative studio has seen a fast and furious wave of senior departures in the past 12 months, VGC has learned.\r\nAs much as half of the core development team known to be working on the upco… [+10730 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "IANS",
+      "title": "Samsung entering India laptop market this Holi, aims double-digit share - Business Standard",
+      "description": "A top executive told IANS that the company is set to launch six laptops -- starting from nearly Rs 40,000 and going up to Rs 1 lakh -- in the country",
+      "url": "https://www.business-standard.com/article/companies/samsung-entering-india-laptop-market-this-holi-aims-double-digit-share-122031500835_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-05/06/full/1620282289-6379.jpg",
+      "publishedAt": "2022-03-15T12:26:00Z",
+      "content": "Ending years of wait and unfazed by global chip shortage, Samsung on Tuesday announced to enter the highly-saturated laptop market in India -- dominated by the likes of HP, Dell and Lenovo -- this Ho… [+3181 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gameinformer.com"
+      },
+      "author": "Wesley LeBlanc",
+      "title": "Grand Theft Auto 5 New-Gen Load Times Are Going To Save You A Lot Of Time - Game Informer",
+      "description": "Los Santos, but even faster.",
+      "url": "https://www.gameinformer.com/2022/03/15/grand-theft-auto-5-new-gen-load-times-are-going-to-save-you-a-lot-of-time",
+      "urlToImage": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2022/03/15/83a5ab04/franklin.jpg",
+      "publishedAt": "2022-03-15T12:26:00Z",
+      "content": "Grand Theft Auto V is out today, again, this time as a new-gen game for PlayStation 5 and Xbox Series X, and perhaps unsurprisingly, its load times are great. \r\nTheyre so great, in fact, that playing… [+1511 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "Andrew O'Hara",
+      "title": "How the new Mac Studio fills a crucial gap in Apple's desktop lineup - AppleInsider",
+      "description": "Apple's Mac Studio slots into an under serviced user-base. Here's how the new computer fills a gap that Apple's had in its product lineup for 15 years.",
+      "url": "https://appleinsider.com/articles/22/03/15/why-the-new-mac-stufio-fills-the-crucial-gap-in-apples-desktop-lineup",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/47451-92619-Mac-Studio-xl.jpg",
+      "publishedAt": "2022-03-15T12:09:00Z",
+      "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+3025 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "XDA Developers"
+      },
+      "author": "Skanda Hazarika",
+      "title": "PSA: Dirty Pipe, the Linux kernel root vulnerability, can be abused on the Samsung Galaxy S22 and Google Pixel 6 Pro - XDA Developers",
+      "description": "The infamous \"Dirty Pipe\" vulnerability can be exploited on the Samsung Galaxy S22 and the Google Pixel 6 Pro to gain root shell access.",
+      "url": "https://www.xda-developers.com/dirty-pipe-root-demo-samsung-galaxy-s22-google-pixel-6-pro/",
+      "urlToImage": "https://www.xda-developers.com/files/2022/03/Samsung-Galaxy-S22-and-Google-Pixel-6-with-Linux-tux-evil-root-logo.jpg",
+      "publishedAt": "2022-03-15T11:40:00Z",
+      "content": "What happens when a Linux privilege-escalation vulnerability that also affects Android gets disclosed publicly? You got it! Security researchers and Android enthusiasts around the world try to take a… [+2243 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Aakrit",
+      "title": "Genshin Impact 2.6 Ayato banner leaks: Rerun and weapons revealed - Sportskeeda",
+      "description": "Genshin Impact leaks have just revealed the rerun banner that will be included in the first half of the 2.6 update.",
+      "url": "https://www.sportskeeda.com/esports/genshin-impact-2-6-ayato-banner-leaks-rerun-weapons-revealed",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2022/03/f54c8-16473415052256-1920.jpg",
+      "publishedAt": "2022-03-15T11:08:31Z",
+      "content": "Genshin Impact leaks have just revealed the rerun banner that will be included in the first half of the 2.6 update. It was already rumored to contain Ayato's banner, and players were expecting two re… [+2475 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Flipkart Big Savings Day SALE! | Best SMART TV Deals! #flipkartsale - BGR India",
+      "description": "#BGRIndia #TechNews Flipkart Big Savings Day is live and customers can choose their favourite brands at a discounted prices. The sale event started from 12th...",
+      "url": "https://www.youtube.com/watch?v=x70XXGw7gjY",
+      "urlToImage": "https://i.ytimg.com/vi/x70XXGw7gjY/maxresdefault.jpg",
+      "publishedAt": "2022-03-15T11:06:43Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Abhishek Mallick",
+      "title": "How to obtain the magic strengthening Terra Magicus spell in Elden Ring - Sportskeeda",
+      "description": "With an extensive list of spells and incantations to pick from, Elden Ring offers players a variety of sorcery skills to play around with.",
+      "url": "https://www.sportskeeda.com/esports/how-obtain-magic-strengthening-terra-magicus-spell-elden-ring",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2022/03/fa13b-16473406226698-1920.jpg",
+      "publishedAt": "2022-03-15T10:59:12Z",
+      "content": "With an extensive list of spells and incantations to pick from, Elden Ring offers players a variety of sorcery skills to play around with. With these under their belt, the Tarnished can look to be an… [+3549 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News18"
+      },
+      "author": "Tech Desk",
+      "title": "Apple iPhone 13 Exchange Offer On Amazon: Buy New iPhone 13 For As Low As Rs 53,300 - News18",
+      "description": "Apple iPhone 13 is currently priced at Rs 74,900 on Amazon as against its sticker price of Rs 79,900. Buyers can avail of a flat Rs 6,000 discount if they purchase the iPhone 13 using an SBI credit card. Also, there’s an exchange discount of up to Rs 15,600 o…",
+      "url": "https://www.news18.com/news/tech/apple-iphone-13-exchange-offer-on-amazon-how-to-buy-new-iphone-13-for-as-low-as-rs-53300-4876490.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2021/09/iphone-13-163184947516x9.jpg",
+      "publishedAt": "2022-03-15T10:53:17Z",
+      "content": "Apple recently launched its latest affordable iPhone, the iPhone SE 2022. With this launch, the iPhone 13 lost its title of being the latest Apple iPhone on the market. On Amazon India, the vanilla i… [+2098 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Google Sheets cell limit doubles in new update, inching closer to Microsoft Excel - Android Police",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiXWh0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tL2dvb2dsZS1zaGVldHMtY2VsbC1saW1pdC1kb3VibGVzLXVwZGF0ZS1jbG9zZXItbWljcm9zb2Z0LWV4Y2VsL9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-03-15T10:46:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Michail",
+      "title": "Samsung Galaxy Tab S8 series also banned from Geekbench - GSMArena.com news - GSMArena.com",
+      "description": "The latest Tab S8 series fell victim to Samsung's GOS.",
+      "url": "https://www.gsmarena.com/samsung_galaxy_tab_s8_series_also_banned_from_geekbench-news-53566.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/03/samsung-galaxy-tab-s8-series-banned-geekbench/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2022-03-15T10:11:01Z",
+      "content": "Earlier this month Samsung came into a debacle over artificially throttling app performance on some of its devices via its Game Optimization Service (GOS). These include the last four generations of … [+1268 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jon Porter",
+      "title": "Samsung's Galaxy A33 leaks in full before its 'Awesome' launch - The Verge",
+      "description": "Samsung’s Galaxy A33 rumored to be launching on March 17th, has leaked in full. Specs include a 6.4-inch 90Hs 1080p OLED display, a 5,000mAh battery, and four rear cameras. It’ll reportedly be priced at €379 in Europe.",
+      "url": "https://www.theverge.com/2022/3/15/22978815/samsung-galaxy-a33-midrange-a-series-phone-leak-awesome-event-price-specs-features",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/gqQQshZL-oz1JRJYd58KWxSBXMY=/0x293:4096x2438/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23317130/FN3XLHhXsAEIMxj.jpg",
+      "publishedAt": "2022-03-15T09:59:51Z",
+      "content": "Rumored to be joined by the Galaxy A53 and A73\r\nThe Galaxy A33.\r\nImage: @Evleaks\r\nSamsungs Galaxy A33, rumored to be the most affordable of the three devices the company will announce on March 17th, … [+2161 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TIMESOFINDIA.COM",
+      "title": "Apple iOS 15.4 allows users to use Face ID with a mask: iPhones that support the feature and the ones tha - Times of India",
+      "description": "Apple has rolled out iOS 15.",
+      "url": "https://timesofindia.indiatimes.com/gadgets-news/apple-ios-15-4-allows-users-to-use-face-id-with-a-mask-iphones-that-support-the-feature-and-the-ones-that-dont/articleshow/90222187.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-90222143,width-1070,height-580,imgsize-14866,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2022-03-15T09:55:00Z",
+      "content": null
+    }
+  ]
 }
